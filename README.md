@@ -48,6 +48,17 @@ You can see the latest build of [Checkmate](https://checkmate-demo.bluewavelabs.
 
 Usage instructions can be found [here](https://docs.checkmate.so/checkmate-2.1). It's still WIP and some of the information there might be outdated as we continuously add features weekly. Rest assured, we are doing our best! :)
 
+
+## How does `Checkmate` work?
+Check out this interactive walkthrough of the `Checkmate` codebase on CodeCanvas:
+
+https://www.code-canvas.com/?session=unauthenticatedGithub&repo=Checkmate&owner=bluewave-labs&branch=develop
+
+<img width="1496" alt="image" src="https://github.com/user-attachments/assets/fc7c6eab-8f05-4020-8cc3-23b7ba25699c" />
+
+
+
+
 ## 🛠️ Installation
 
 See installation instructions in [Checkmate documentation portal](https://docs.checkmate.so/checkmate-2.1/users-guide/quickstart). Alternatively, you can also use [Coolify](https://coolify.io/) or [Elestio](https://elest.io/open-source/checkmate) for a one-click Docker deployment. If you would like to monitor your server infrastructure, you'll need [Capture agent](https://github.com/bluewave-labs/capture). Capture repository also contains the installation instructions.
