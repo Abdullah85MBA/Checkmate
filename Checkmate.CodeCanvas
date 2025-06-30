@@ -1,0 +1,1958 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"zLZlR06w4968oWhHG55R\" name=\"Page-1\">\n    <mxGraphModel dx=\"5196\" dy=\"2886\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#fffefe\" parent=\"0\" />\n        <UserObject label=\"client\" value=\"client\" id=\"838aebb4-4819-41c2-9c6b-793694ee9fdf\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=45;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#fffefe\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"145\" y=\"170\" width=\"2130\" height=\"1878.155689613543\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"src\" value=\"src\" id=\"23721e99-dd82-4881-a2c1-99be4a530dc3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=45;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" parent=\"838aebb4-4819-41c2-9c6b-793694ee9fdf\" vertex=\"1\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"1940\" height=\"1738.155689613543\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Pages\" value=\"Pages\" id=\"b7df1536-ca9c-4124-8c62-f99d26fdc2b0\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=34;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"23721e99-dd82-4881-a2c1-99be4a530dc3\" vertex=\"1\">\n            <mxGeometry x=\"95\" y=\"348.15568961354296\" width=\"1050\" height=\"1320\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Uptime\" value=\"Uptime\" id=\"93bfdb86-a66f-4152-96b8-1527c2ece3e8\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=28;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" parent=\"b7df1536-ca9c-4124-8c62-f99d26fdc2b0\" vertex=\"1\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"780\" height=\"1180\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Create\" value=\"Create\" id=\"bd93ad01-7723-4634-a502-fa2b072c61b0\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" parent=\"93bfdb86-a66f-4152-96b8-1527c2ece3e8\" vertex=\"1\">\n            <mxGeometry x=\"120\" y=\"70\" width=\"485\" height=\"500\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"index.jsx\" value=\"index.jsx\" id=\"c28a96e4-7411-4cfd-9116-2eccc5a45e39\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#e5cbcb\" parent=\"bd93ad01-7723-4634-a502-fa2b072c61b0\" vertex=\"1\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"320\" height=\"360\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"User Initiates Monitor Creation - index.jsx:L99-150\" value=\"User Initiates Monitor Creation - index.jsx:L99-150\" id=\"7576b5e3-fc0a-4771-82ce-bbf4905f6dee\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"c28a96e4-7411-4cfd-9116-2eccc5a45e39\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"User Configures Advanced Uptime Check - index.jsx:L411-463\" value=\"User Configures Advanced Uptime Check - index.jsx:L411-463\" id=\"c11e0d58-9147-4474-acab-3c2e77cfeb4a\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"c28a96e4-7411-4cfd-9116-2eccc5a45e39\" vertex=\"1\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Details\" value=\"Details\" id=\"c596a2ea-9acb-4a14-90e8-c9ee700449c3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" parent=\"93bfdb86-a66f-4152-96b8-1527c2ece3e8\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"610.0000000000001\" width=\"510\" height=\"500\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"index.jsx\" value=\"index.jsx\" id=\"df14458e-5006-4101-b4b2-946ec116102b\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#e5cbcb\" parent=\"c596a2ea-9acb-4a14-90e8-c9ee700449c3\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"320\" height=\"360\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"User Views Monitor Details - index.jsx:L51-56\" value=\"User Views Monitor Details - index.jsx:L51-56\" id=\"bf55a018-5934-4087-ad6e-c97671c62fb3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"df14458e-5006-4101-b4b2-946ec116102b\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Frontend Renders Monitor Details Page - index.jsx:L141-188\" value=\"Frontend Renders Monitor Details Page - index.jsx:L141-188\" id=\"8067217d-6d02-4eb4-8e16-e1ad181e85cb\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"df14458e-5006-4101-b4b2-946ec116102b\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Hooks\" value=\"Hooks\" id=\"e78e43dd-2258-400c-ba9b-ea4aa9e957cd\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"23721e99-dd82-4881-a2c1-99be4a530dc3\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"1335\" y=\"455.1743968664374\" width=\"510\" height=\"370\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"monitorHooks.js\" value=\"monitorHooks.js\" id=\"5a7f828d-a740-4f00-9913-a7eb09557397\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" parent=\"e78e43dd-2258-400c-ba9b-ea4aa9e957cd\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Prepare and Send API Request - monitorHooks.js:L327-344\" value=\"Prepare and Send API Request - monitorHooks.js:L327-344\" id=\"df5009e1-7e72-4464-a453-d558eb2dcf0c\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"5a7f828d-a740-4f00-9913-a7eb09557397\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Utils\" value=\"Utils\" id=\"72518127-cf06-4aba-a3bb-0ca900e5bb21\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"23721e99-dd82-4881-a2c1-99be4a530dc3\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"460\" y=\"70.00000000000006\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"NetworkService.js\" value=\"NetworkService.js\" id=\"de3620c3-8da9-4551-b9cb-d99a5b4c0694\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=15;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"72518127-cf06-4aba-a3bb-0ca900e5bb21\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"b9c5f64b-8e6d-45cd-8dae-f8c32199574d\" value=\"Submitting Monitor&#xa;Configuration\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=18;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"23721e99-dd82-4881-a2c1-99be4a530dc3\" source=\"c11e0d58-9147-4474-acab-3c2e77cfeb4a\" target=\"df5009e1-7e72-4464-a453-d558eb2dcf0c\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"860\" y=\"673.155689613543\" />\n              <mxPoint x=\"860\" y=\"674.0212575872513\" />\n              <mxPoint x=\"1035\" y=\"674.0212575872512\" />\n              <mxPoint x=\"1035\" y=\"675.4849679526809\" />\n              <mxPoint x=\"1210\" y=\"675.484967952681\" />\n              <mxPoint x=\"1210\" y=\"640.1743968664373\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"server\" value=\"server\" id=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=55;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#fffefe\" parent=\"1\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"2465\" y=\"368.75441222147447\" width=\"4570\" height=\"1650\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"controllers\" value=\"controllers\" id=\"9817fcb9-dce8-4192-a71e-edf32875035d\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" parent=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"569.1755428541738\" width=\"510\" height=\"370\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"monitorController.js\" value=\"monitorController.js\" id=\"e0322b9d-7ff6-4d66-af27-b32ad340065b\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"9817fcb9-dce8-4192-a71e-edf32875035d\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Server Handles Monitor Creation - monitorController.js:L230-252\" value=\"Server Handles Monitor Creation - monitorController.js:L230-252\" id=\"26f60271-d3c6-47f4-b86e-4c7b973b4b62\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"e0322b9d-7ff6-4d66-af27-b32ad340065b\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"db\" value=\"db\" id=\"99398059-7c94-4156-a51b-247e58ef67d9\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=31;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" parent=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"795\" y=\"120.00000000000011\" width=\"970\" height=\"1460\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"mongo\" value=\"mongo\" id=\"022e6c49-8724-463a-8306-a380f7545ca1\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=28;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"99398059-7c94-4156-a51b-247e58ef67d9\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"175\" y=\"750\" width=\"700\" height=\"640\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"modules\" value=\"modules\" id=\"4d078e59-a5e7-40f3-820c-b6687b8309b6\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" parent=\"022e6c49-8724-463a-8306-a380f7545ca1\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"510\" height=\"500\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"monitorModule.js\" value=\"monitorModule.js\" id=\"0ee99b12-acf1-430e-8a29-8012fde80083\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#ead5d5\" parent=\"4d078e59-a5e7-40f3-820c-b6687b8309b6\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"320\" height=\"360\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Persist Monitor in MongoDB - monitorModule.js:L675-683\" value=\"Persist Monitor in MongoDB - monitorModule.js:L675-683\" id=\"a9566822-6698-4934-8d4d-406450ebfbb1\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"0ee99b12-acf1-430e-8a29-8012fde80083\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Server Gathers and Aggregates Monitor Data - monitorModule.js:L338-371\" value=\"Server Gathers and Aggregates Monitor Data - monitorModule.js:L338-371\" id=\"b6594100-f494-4742-b4c2-61408fc625c1\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"0ee99b12-acf1-430e-8a29-8012fde80083\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"models\" value=\"models\" id=\"d14939cb-68cc-40c6-a93f-f6a73b4a6ff8\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"99398059-7c94-4156-a51b-247e58ef67d9\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"211.66666666666666\" y=\"70\" width=\"590\" height=\"640\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Monitor.js\" value=\"Monitor.js\" id=\"703ab886-9e78-45bb-99de-361ebd755685\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" parent=\"d14939cb-68cc-40c6-a93f-f6a73b4a6ff8\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"175\" y=\"340\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Store Configuration in Database - Monitor.js:L42-52\" value=\"Store Configuration in Database - Monitor.js:L42-52\" id=\"f2cedce5-e1af-4267-b0f1-ab04f057e05b\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"703ab886-9e78-45bb-99de-361ebd755685\" vertex=\"1\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Check.js\" value=\"Check.js\" id=\"0d2194b6-976b-4f55-b0d5-b42381bb9542\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" parent=\"d14939cb-68cc-40c6-a93f-f6a73b4a6ff8\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"175\" y=\"70\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Store Uptime Check Result - Check.js:L1\" value=\"Store Uptime Check Result - Check.js:L1\" id=\"bbfd54ad-d5de-4525-9871-79fc6c30edc3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"0d2194b6-976b-4f55-b0d5-b42381bb9542\" vertex=\"1\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"service\" value=\"service\" id=\"2c027844-3cd9-4384-90f7-505f94a07e41\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=46;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" parent=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"1955\" y=\"223.86153717685238\" width=\"2440\" height=\"691\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"PulseQueue\" value=\"PulseQueue\" id=\"2d77a256-2db9-4808-9604-38368096d85f\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"2c027844-3cd9-4384-90f7-505f94a07e41\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"175\" y=\"121\" width=\"510\" height=\"500\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"PulseQueue.js\" value=\"PulseQueue.js\" id=\"fd9a7c7b-227f-4d7d-90a0-15dd302abb37\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#efdfdf\" parent=\"2d77a256-2db9-4808-9604-38368096d85f\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"200\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Job Queue Schedules the Check - PulseQueue.js:L43-55\" value=\"Job Queue Schedules the Check - PulseQueue.js:L43-55\" id=\"f9b8a704-863c-4394-9b1f-c85da9e3edab\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"fd9a7c7b-227f-4d7d-90a0-15dd302abb37\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"PulseQueueHelper.js\" value=\"PulseQueueHelper.js\" id=\"589871f1-0543-4e77-8e98-ba4a8871cfde\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=14;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"2d77a256-2db9-4808-9604-38368096d85f\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"165\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"networkService.js\" value=\"networkService.js\" id=\"09a5c1ce-697a-481c-8133-ae583d2719a2\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=31;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"2c027844-3cd9-4384-90f7-505f94a07e41\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"875\" y=\"72.55973606211509\" width=\"960\" height=\"360.00000000000006\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Perform Health Check via Network Service - networkService.js:L495-517\" value=\"Perform Health Check via Network Service - networkService.js:L495-517\" id=\"d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"09a5c1ce-697a-481c-8133-ae583d2719a2\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"200.00000000000006\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Initiate HTTP Check - networkService.js:L140-147\" value=\"Initiate HTTP Check - networkService.js:L140-147\" id=\"27cb1f9a-8341-4efc-b2bc-fe578184ebcf\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"09a5c1ce-697a-481c-8133-ae583d2719a2\" vertex=\"1\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Extract Value with JSONPath - networkService.js:L205-213\" value=\"Extract Value with JSONPath - networkService.js:L205-213\" id=\"06ca9228-5d0b-4293-aa64-ab8866597f51\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"09a5c1ce-697a-481c-8133-ae583d2719a2\" vertex=\"1\">\n            <mxGeometry x=\"390\" y=\"89.2320602253375\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Compare Extracted vs. Expected Value - networkService.js:L222-231\" value=\"Compare Extracted vs. Expected Value - networkService.js:L222-231\" id=\"91fa91a3-bc36-42d7-aa08-9301355e7014\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"09a5c1ce-697a-481c-8133-ae583d2719a2\" vertex=\"1\">\n            <mxGeometry x=\"710\" y=\"89.2320602253375\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ab2c0817-0c41-4ab8-8b51-c42850ea4ef1\" value=\"Fetch Data&#xa;from Target&#xa;API\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"09a5c1ce-697a-481c-8133-ae583d2719a2\" source=\"27cb1f9a-8341-4efc-b2bc-fe578184ebcf\" target=\"06ca9228-5d0b-4293-aa64-ab8866597f51\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"290\" y=\"115\" />\n              <mxPoint x=\"290\" y=\"134.2320602253375\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"a266e0a6-125b-45c9-986b-780f930d7d71\" value=\"Pass Extracted&#xa;Value to&#xa;Matcher\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"09a5c1ce-697a-481c-8133-ae583d2719a2\" source=\"06ca9228-5d0b-4293-aa64-ab8866597f51\" target=\"91fa91a3-bc36-42d7-aa08-9301355e7014\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"statusService.js\" value=\"statusService.js\" id=\"db3967cc-8a6b-44eb-8241-9fa6c6f7918d\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"2c027844-3cd9-4384-90f7-505f94a07e41\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"2025\" y=\"223.74428449717382\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Update Status and Record Check - statusService.js:L104-157\" value=\"Update Status and Record Check - statusService.js:L104-157\" id=\"54faa23b-86a7-4392-abe3-cc727d7d8dca\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"db3967cc-8a6b-44eb-8241-9fa6c6f7918d\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"a14921eb-9f3f-482f-86dd-ae3d9ef3ca91\" value=\"Job Worker&#xa;Executes Check\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=14;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"2c027844-3cd9-4384-90f7-505f94a07e41\" source=\"f9b8a704-863c-4394-9b1f-c85da9e3edab\" target=\"d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3\" edge=\"1\" visible=\"0\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"750\" y=\"436.00000000000006\" />\n              <mxPoint x=\"750\" y=\"317.55973606211523\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"0449f973-01b3-43a8-adcb-de81683bdea8\" value=\"Pass Check&#xa;Result to&#xa;Status Service\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"2c027844-3cd9-4384-90f7-505f94a07e41\" source=\"d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3\" target=\"54faa23b-86a7-4392-abe3-cc727d7d8dca\" edge=\"1\" visible=\"0\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1165\" y=\"317.5597360621151\" />\n              <mxPoint x=\"1165\" y=\"307.0605824147008\" />\n              <mxPoint x=\"1900\" y=\"307.0605824147007\" />\n              <mxPoint x=\"1900\" y=\"338.7442844971738\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"ebad0b72-35d1-493f-aa9a-5055030cb996\" value=\"Save Monitor&#xa;to Database\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=18;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\" source=\"26f60271-d3c6-47f4-b86e-4c7b973b4b62\" target=\"a9566822-6698-4934-8d4d-406450ebfbb1\" edge=\"1\" visible=\"0\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"680\" y=\"754.1755428541736\" />\n              <mxPoint x=\"680\" y=\"1125\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"1eff3a77-01e5-466e-8be8-9e71f7676a66\" value=\"Add Monitor&#xa;to Job&#xa;Queue\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\" source=\"a9566822-6698-4934-8d4d-406450ebfbb1\" target=\"f9b8a704-863c-4394-9b1f-c85da9e3edab\" edge=\"1\" visible=\"0\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1840\" y=\"1125\" />\n              <mxPoint x=\"1840\" y=\"659.8615371768524\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"validation\" value=\"validation\" id=\"641b6571-3e47-4580-b79d-25729504c8c5\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=25;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" parent=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"149.0565561017322\" width=\"510\" height=\"370\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"joi.js\" value=\"joi.js\" id=\"d1e25d19-dfe0-4451-8201-6ee6661eb6c1\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" parent=\"641b6571-3e47-4580-b79d-25729504c8c5\" vertex=\"1\" visible=\"0\">\n            <mxGeometry x=\"95\" y=\"70\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Validate Monitor Configuration on Server - joi.js:L204-206\" value=\"Validate Monitor Configuration on Server - joi.js:L204-206\" id=\"45fcab12-2d79-4353-9cc7-6ff6f4d44485\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"d1e25d19-dfe0-4451-8201-6ee6661eb6c1\" vertex=\"1\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"484b09ab-8a9d-4c35-9e29-7b79b5ded453\" value=\"Persist Monitor&#xa;Configuration\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\" source=\"45fcab12-2d79-4353-9cc7-6ff6f4d44485\" target=\"f2cedce5-e1af-4267-b0f1-ab04f057e05b\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"670\" y=\"334.05655610173216\" />\n              <mxPoint x=\"670\" y=\"645\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"1feaebcf-7089-4f2c-b386-3d55f4c9c097\" value=\"Uptime Check&#xa;Job Enqueued\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\" source=\"f2cedce5-e1af-4267-b0f1-ab04f057e05b\" target=\"27cb1f9a-8341-4efc-b2bc-fe578184ebcf\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1830\" y=\"644.9999999999999\" />\n              <mxPoint x=\"1830\" y=\"294.6717284929804\" />\n              <mxPoint x=\"2065\" y=\"294.67172849298066\" />\n              <mxPoint x=\"2065\" y=\"293.8615371768525\" />\n              <mxPoint x=\"2705\" y=\"293.8615371768525\" />\n              <mxPoint x=\"2705\" y=\"411.4212732389676\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"09282ff5-eddf-4f13-b95f-420158c3b5b5\" value=\"Return Final&#xa;Check Result\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"dfdbbcfd-34de-4608-8bb5-0f4148657031\" source=\"91fa91a3-bc36-42d7-aa08-9301355e7014\" target=\"bbfd54ad-d5de-4525-9871-79fc6c30edc3\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3855\" y=\"430.653333464305\" />\n              <mxPoint x=\"3855\" y=\"396.15807357877713\" />\n              <mxPoint x=\"4460\" y=\"396.1580735787768\" />\n              <mxPoint x=\"4460\" y=\"69.99999999999966\" />\n              <mxPoint x=\"680\" y=\"69.99999999999966\" />\n              <mxPoint x=\"680\" y=\"376.5320221832445\" />\n              <mxPoint x=\"905\" y=\"376.5320221832448\" />\n              <mxPoint x=\"905\" y=\"375.82611516325665\" />\n              <mxPoint x=\"1116.6666666666665\" y=\"375.82611516325653\" />\n              <mxPoint x=\"1116.6666666666665\" y=\"374.9999999999999\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"2d3f34ef-4142-4996-ac1a-1310007de314\" value=\"Send Create&#xa;Monitor Request\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"1\" source=\"7576b5e3-fc0a-4771-82ce-bbf4905f6dee\" target=\"26f60271-d3c6-47f4-b86e-4c7b973b4b62\" edge=\"1\" visible=\"0\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1450\" y=\"1043.155689613543\" />\n              <mxPoint x=\"1450\" y=\"1122.9299550756482\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"9fdfb8fe-f348-4c98-a4d7-9f88ce024de3\" value=\"Persist Check&#xa;Record to&#xa;Database\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"1\" source=\"54faa23b-86a7-4392-abe3-cc727d7d8dca\" target=\"bf55a018-5934-4087-ad6e-c97671c62fb3\" edge=\"1\" visible=\"0\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"7100\" y=\"931.3602338955009\" />\n              <mxPoint x=\"7100\" y=\"120.00000000000023\" />\n              <mxPoint x=\"80\" y=\"120.00000000000023\" />\n              <mxPoint x=\"80\" y=\"1453.1556896135432\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"29d9e788-bcdb-4e59-a209-a9e2370dbff1\" value=\"Request Monitor&#xa;Details from&#xa;Server\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"1\" source=\"bf55a018-5934-4087-ad6e-c97671c62fb3\" target=\"b6594100-f494-4742-b4c2-61408fc625c1\" edge=\"1\" visible=\"0\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1450\" y=\"1453.155689613543\" />\n              <mxPoint x=\"1450\" y=\"1410.797487198459\" />\n              <mxPoint x=\"2340\" y=\"1410.7974871984588\" />\n              <mxPoint x=\"2340\" y=\"1357.9299550756477\" />\n              <mxPoint x=\"3135\" y=\"1357.929955075648\" />\n              <mxPoint x=\"3135\" y=\"1623.7544122214745\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"24b5566e-4bd7-48a3-a3fe-ec8633b509ba\" value=\"Send Aggregated&#xa;Data to&#xa;Client\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"1\" source=\"b6594100-f494-4742-b4c2-61408fc625c1\" target=\"8067217d-6d02-4eb4-8e16-e1ad181e85cb\" edge=\"1\" visible=\"0\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"4315\" y=\"1623.7544122214742\" />\n              <mxPoint x=\"4315\" y=\"1333.6413687737877\" />\n              <mxPoint x=\"7110\" y=\"1333.6413687737884\" />\n              <mxPoint x=\"7110\" y=\"70.00000000000023\" />\n              <mxPoint x=\"70\" y=\"70.00000000000023\" />\n              <mxPoint x=\"70\" y=\"1583.1556896135432\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"d88f6de7-e2ce-49d0-ada4-5ac530f1143b\" value=\"Transmit Monitor&#xa;Configuration to&#xa;Server\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" parent=\"1\" source=\"df5009e1-7e72-4464-a453-d558eb2dcf0c\" target=\"45fcab12-2d79-4353-9cc7-6ff6f4d44485\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2340\" y=\"880.1743968664371\" />\n              <mxPoint x=\"2340\" y=\"702.8109683232062\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "",
+	"fileURL": "github",
+	"repoData": {
+		"client": {
+			"path": "client",
+			"fileName": "client",
+			"cellName": "client",
+			"cellId": "838aebb4-4819-41c2-9c6b-793694ee9fdf",
+			"visible": true,
+			"children": [
+				"client/src"
+			]
+		},
+		"client/src": {
+			"path": "client/src",
+			"fileName": "src",
+			"cellName": "src",
+			"cellId": "23721e99-dd82-4881-a2c1-99be4a530dc3",
+			"visible": true,
+			"parentCellId": "838aebb4-4819-41c2-9c6b-793694ee9fdf",
+			"children": [
+				"client/src/Pages",
+				"client/src/Hooks",
+				"client/src/Utils"
+			]
+		},
+		"client/src/Hooks": {
+			"path": "client/src/Hooks",
+			"fileName": "Hooks",
+			"cellName": "Hooks",
+			"cellId": "e78e43dd-2258-400c-ba9b-ea4aa9e957cd",
+			"visible": true,
+			"parentCellId": "23721e99-dd82-4881-a2c1-99be4a530dc3",
+			"children": [
+				"client/src/Hooks/monitorHooks.js"
+			]
+		},
+		"client/src/Hooks/monitorHooks.js": {
+			"path": "client/src/Hooks/monitorHooks.js",
+			"fileName": "monitorHooks.js",
+			"cellName": "monitorHooks.js",
+			"cellId": "5a7f828d-a740-4f00-9913-a7eb09557397",
+			"visible": true,
+			"parentCellId": "e78e43dd-2258-400c-ba9b-ea4aa9e957cd",
+			"children": [
+				"client/src/Hooks/monitorHooks.js-simstep-3097aacf-2823-42e6-94a1-b86c416b3a1e"
+			]
+		},
+		"client/src/Pages": {
+			"path": "client/src/Pages",
+			"fileName": "Pages",
+			"cellName": "Pages",
+			"cellId": "b7df1536-ca9c-4124-8c62-f99d26fdc2b0",
+			"visible": true,
+			"parentCellId": "23721e99-dd82-4881-a2c1-99be4a530dc3",
+			"children": [
+				"client/src/Pages/Uptime"
+			]
+		},
+		"client/src/Pages/Uptime": {
+			"path": "client/src/Pages/Uptime",
+			"fileName": "Uptime",
+			"cellName": "Uptime",
+			"cellId": "93bfdb86-a66f-4152-96b8-1527c2ece3e8",
+			"visible": true,
+			"parentCellId": "b7df1536-ca9c-4124-8c62-f99d26fdc2b0",
+			"children": [
+				"client/src/Pages/Uptime/Create",
+				"client/src/Pages/Uptime/Details"
+			]
+		},
+		"client/src/Pages/Uptime/Create": {
+			"path": "client/src/Pages/Uptime/Create",
+			"fileName": "Create",
+			"cellName": "Create",
+			"cellId": "bd93ad01-7723-4634-a502-fa2b072c61b0",
+			"visible": true,
+			"parentCellId": "93bfdb86-a66f-4152-96b8-1527c2ece3e8",
+			"children": [
+				"client/src/Pages/Uptime/Create/index.jsx"
+			]
+		},
+		"client/src/Pages/Uptime/Create/index.jsx": {
+			"path": "client/src/Pages/Uptime/Create/index.jsx",
+			"fileName": "index.jsx",
+			"cellName": "index.jsx",
+			"cellId": "c28a96e4-7411-4cfd-9116-2eccc5a45e39",
+			"visible": true,
+			"parentCellId": "bd93ad01-7723-4634-a502-fa2b072c61b0",
+			"children": [
+				"client/src/Pages/Uptime/Create/index.jsx-simstep-4b027a51-173b-4538-a9c0-632891559679",
+				"client/src/Pages/Uptime/Create/index.jsx-simstep-7b8edb1c-a757-444a-8c3a-032dac2b2e3b"
+			]
+		},
+		"client/src/Pages/Uptime/Details": {
+			"path": "client/src/Pages/Uptime/Details",
+			"fileName": "Details",
+			"cellName": "Details",
+			"cellId": "c596a2ea-9acb-4a14-90e8-c9ee700449c3",
+			"visible": true,
+			"parentCellId": "93bfdb86-a66f-4152-96b8-1527c2ece3e8",
+			"children": [
+				"client/src/Pages/Uptime/Details/index.jsx"
+			]
+		},
+		"client/src/Pages/Uptime/Details/index.jsx": {
+			"path": "client/src/Pages/Uptime/Details/index.jsx",
+			"fileName": "index.jsx",
+			"cellName": "index.jsx",
+			"cellId": "df14458e-5006-4101-b4b2-946ec116102b",
+			"visible": true,
+			"parentCellId": "c596a2ea-9acb-4a14-90e8-c9ee700449c3",
+			"children": [
+				"client/src/Pages/Uptime/Details/index.jsx-simstep-c32abb97-546c-4e37-aff9-6de778040b10",
+				"client/src/Pages/Uptime/Details/index.jsx-simstep-62672825-5239-48b8-a6f6-9c2ff156c473"
+			]
+		},
+		"client/src/Utils": {
+			"path": "client/src/Utils",
+			"fileName": "Utils",
+			"cellName": "Utils",
+			"cellId": "72518127-cf06-4aba-a3bb-0ca900e5bb21",
+			"visible": true,
+			"parentCellId": "23721e99-dd82-4881-a2c1-99be4a530dc3",
+			"children": [
+				"client/src/Utils/NetworkService.js"
+			]
+		},
+		"client/src/Utils/NetworkService.js": {
+			"path": "client/src/Utils/NetworkService.js",
+			"fileName": "NetworkService.js",
+			"cellName": "NetworkService.js",
+			"cellId": "de3620c3-8da9-4551-b9cb-d99a5b4c0694",
+			"visible": true,
+			"parentCellId": "72518127-cf06-4aba-a3bb-0ca900e5bb21"
+		},
+		"server": {
+			"path": "server",
+			"fileName": "server",
+			"cellName": "server",
+			"cellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031",
+			"visible": true,
+			"children": [
+				"server/controllers",
+				"server/db",
+				"server/service",
+				"server/validation"
+			]
+		},
+		"server/controllers": {
+			"path": "server/controllers",
+			"fileName": "controllers",
+			"cellName": "controllers",
+			"cellId": "9817fcb9-dce8-4192-a71e-edf32875035d",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031",
+			"children": [
+				"server/controllers/monitorController.js"
+			]
+		},
+		"server/controllers/monitorController.js": {
+			"path": "server/controllers/monitorController.js",
+			"fileName": "monitorController.js",
+			"cellName": "monitorController.js",
+			"cellId": "e0322b9d-7ff6-4d66-af27-b32ad340065b",
+			"visible": true,
+			"parentCellId": "9817fcb9-dce8-4192-a71e-edf32875035d",
+			"children": [
+				"server/controllers/monitorController.js-simstep-fe7ed684-683b-4379-83d0-88d83287a6c4"
+			]
+		},
+		"server/db": {
+			"path": "server/db",
+			"fileName": "db",
+			"cellName": "db",
+			"cellId": "99398059-7c94-4156-a51b-247e58ef67d9",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031",
+			"children": [
+				"server/db/mongo",
+				"server/db/models"
+			]
+		},
+		"server/db/models": {
+			"path": "server/db/models",
+			"fileName": "models",
+			"cellName": "models",
+			"cellId": "d14939cb-68cc-40c6-a93f-f6a73b4a6ff8",
+			"visible": true,
+			"parentCellId": "99398059-7c94-4156-a51b-247e58ef67d9",
+			"children": [
+				"server/db/models/Monitor.js",
+				"server/db/models/Check.js"
+			]
+		},
+		"server/db/models/Check.js": {
+			"path": "server/db/models/Check.js",
+			"fileName": "Check.js",
+			"cellName": "Check.js",
+			"cellId": "0d2194b6-976b-4f55-b0d5-b42381bb9542",
+			"visible": true,
+			"parentCellId": "d14939cb-68cc-40c6-a93f-f6a73b4a6ff8",
+			"children": [
+				"server/db/models/Check.js-simstep-c5447819-817d-472e-ac18-c27fcf9f1049"
+			]
+		},
+		"server/db/models/Monitor.js": {
+			"path": "server/db/models/Monitor.js",
+			"fileName": "Monitor.js",
+			"cellName": "Monitor.js",
+			"cellId": "703ab886-9e78-45bb-99de-361ebd755685",
+			"visible": true,
+			"parentCellId": "d14939cb-68cc-40c6-a93f-f6a73b4a6ff8",
+			"children": [
+				"server/db/models/Monitor.js-simstep-aba059e7-1ce0-427a-8536-bab6d463380f"
+			]
+		},
+		"server/db/mongo": {
+			"path": "server/db/mongo",
+			"fileName": "mongo",
+			"cellName": "mongo",
+			"cellId": "022e6c49-8724-463a-8306-a380f7545ca1",
+			"visible": true,
+			"parentCellId": "99398059-7c94-4156-a51b-247e58ef67d9",
+			"children": [
+				"server/db/mongo/modules"
+			]
+		},
+		"server/db/mongo/modules": {
+			"path": "server/db/mongo/modules",
+			"fileName": "modules",
+			"cellName": "modules",
+			"cellId": "4d078e59-a5e7-40f3-820c-b6687b8309b6",
+			"visible": true,
+			"parentCellId": "022e6c49-8724-463a-8306-a380f7545ca1",
+			"children": [
+				"server/db/mongo/modules/monitorModule.js"
+			]
+		},
+		"server/db/mongo/modules/monitorModule.js": {
+			"path": "server/db/mongo/modules/monitorModule.js",
+			"fileName": "monitorModule.js",
+			"cellName": "monitorModule.js",
+			"cellId": "0ee99b12-acf1-430e-8a29-8012fde80083",
+			"visible": true,
+			"parentCellId": "4d078e59-a5e7-40f3-820c-b6687b8309b6",
+			"children": [
+				"server/db/mongo/modules/monitorModule.js-simstep-f301d643-8738-4832-af50-64bdf9e5387b",
+				"server/db/mongo/modules/monitorModule.js-simstep-5519e622-500c-444c-8b75-315819fac904"
+			]
+		},
+		"server/service": {
+			"path": "server/service",
+			"fileName": "service",
+			"cellName": "service",
+			"cellId": "2c027844-3cd9-4384-90f7-505f94a07e41",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031",
+			"children": [
+				"server/service/PulseQueue",
+				"server/service/networkService.js",
+				"server/service/statusService.js"
+			]
+		},
+		"server/service/PulseQueue": {
+			"path": "server/service/PulseQueue",
+			"fileName": "PulseQueue",
+			"cellName": "PulseQueue",
+			"cellId": "2d77a256-2db9-4808-9604-38368096d85f",
+			"visible": true,
+			"parentCellId": "2c027844-3cd9-4384-90f7-505f94a07e41",
+			"children": [
+				"server/service/PulseQueue/PulseQueue.js",
+				"server/service/PulseQueue/PulseQueueHelper.js"
+			]
+		},
+		"server/service/PulseQueue/PulseQueue.js": {
+			"path": "server/service/PulseQueue/PulseQueue.js",
+			"fileName": "PulseQueue.js",
+			"cellName": "PulseQueue.js",
+			"cellId": "fd9a7c7b-227f-4d7d-90a0-15dd302abb37",
+			"visible": true,
+			"parentCellId": "2d77a256-2db9-4808-9604-38368096d85f",
+			"children": [
+				"server/service/PulseQueue/PulseQueue.js-simstep-5ec481f0-a3cc-42e1-895d-506c231ce0d2"
+			]
+		},
+		"server/service/PulseQueue/PulseQueueHelper.js": {
+			"path": "server/service/PulseQueue/PulseQueueHelper.js",
+			"fileName": "PulseQueueHelper.js",
+			"cellName": "PulseQueueHelper.js",
+			"cellId": "589871f1-0543-4e77-8e98-ba4a8871cfde",
+			"visible": true,
+			"parentCellId": "2d77a256-2db9-4808-9604-38368096d85f"
+		},
+		"server/service/networkService.js": {
+			"path": "server/service/networkService.js",
+			"fileName": "networkService.js",
+			"cellName": "networkService.js",
+			"cellId": "09a5c1ce-697a-481c-8133-ae583d2719a2",
+			"visible": true,
+			"parentCellId": "2c027844-3cd9-4384-90f7-505f94a07e41",
+			"children": [
+				"server/service/networkService.js-simstep-9712c723-e62e-4a45-b116-6602376bab7d",
+				"server/service/networkService.js-simstep-2f5732df-2ac4-44b2-b43e-f4c211be835d",
+				"server/service/networkService.js-simstep-199b75d8-53ee-45dd-a634-0fc9f8c68a04",
+				"server/service/networkService.js-simstep-9de8cb15-b189-4ee1-b0f1-eef690dcecab"
+			]
+		},
+		"server/service/statusService.js": {
+			"path": "server/service/statusService.js",
+			"fileName": "statusService.js",
+			"cellName": "statusService.js",
+			"cellId": "db3967cc-8a6b-44eb-8241-9fa6c6f7918d",
+			"visible": true,
+			"parentCellId": "2c027844-3cd9-4384-90f7-505f94a07e41",
+			"children": [
+				"server/service/statusService.js-simstep-ff501493-53b8-4532-9910-d14b53f1214e"
+			]
+		},
+		"server/validation": {
+			"path": "server/validation",
+			"fileName": "validation",
+			"cellName": "validation",
+			"cellId": "641b6571-3e47-4580-b79d-25729504c8c5",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031",
+			"children": [
+				"server/validation/joi.js"
+			]
+		},
+		"server/validation/joi.js": {
+			"path": "server/validation/joi.js",
+			"fileName": "joi.js",
+			"cellName": "joi.js",
+			"cellId": "d1e25d19-dfe0-4451-8201-6ee6661eb6c1",
+			"visible": true,
+			"parentCellId": "641b6571-3e47-4580-b79d-25729504c8c5",
+			"children": [
+				"server/validation/joi.js-simstep-d482e822-fbda-4098-85ce-832ea3149bae"
+			]
+		},
+		"838aebb4-4819-41c2-9c6b-793694ee9fdf": {
+			"path": "838aebb4-4819-41c2-9c6b-793694ee9fdf",
+			"cellName": "client",
+			"cellId": "838aebb4-4819-41c2-9c6b-793694ee9fdf",
+			"visible": true
+		},
+		"dfdbbcfd-34de-4608-8bb5-0f4148657031": {
+			"path": "dfdbbcfd-34de-4608-8bb5-0f4148657031",
+			"cellName": "server",
+			"cellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031",
+			"visible": true
+		},
+		"23721e99-dd82-4881-a2c1-99be4a530dc3": {
+			"path": "23721e99-dd82-4881-a2c1-99be4a530dc3",
+			"cellName": "src",
+			"cellId": "23721e99-dd82-4881-a2c1-99be4a530dc3",
+			"visible": true,
+			"parentCellId": "838aebb4-4819-41c2-9c6b-793694ee9fdf"
+		},
+		"9817fcb9-dce8-4192-a71e-edf32875035d": {
+			"path": "9817fcb9-dce8-4192-a71e-edf32875035d",
+			"cellName": "controllers",
+			"cellId": "9817fcb9-dce8-4192-a71e-edf32875035d",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031"
+		},
+		"99398059-7c94-4156-a51b-247e58ef67d9": {
+			"path": "99398059-7c94-4156-a51b-247e58ef67d9",
+			"cellName": "db",
+			"cellId": "99398059-7c94-4156-a51b-247e58ef67d9",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031"
+		},
+		"2c027844-3cd9-4384-90f7-505f94a07e41": {
+			"path": "2c027844-3cd9-4384-90f7-505f94a07e41",
+			"cellName": "service",
+			"cellId": "2c027844-3cd9-4384-90f7-505f94a07e41",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031"
+		},
+		"b7df1536-ca9c-4124-8c62-f99d26fdc2b0": {
+			"path": "b7df1536-ca9c-4124-8c62-f99d26fdc2b0",
+			"cellName": "Pages",
+			"cellId": "b7df1536-ca9c-4124-8c62-f99d26fdc2b0",
+			"visible": true,
+			"parentCellId": "23721e99-dd82-4881-a2c1-99be4a530dc3"
+		},
+		"e78e43dd-2258-400c-ba9b-ea4aa9e957cd": {
+			"path": "e78e43dd-2258-400c-ba9b-ea4aa9e957cd",
+			"cellName": "Hooks",
+			"cellId": "e78e43dd-2258-400c-ba9b-ea4aa9e957cd",
+			"visible": true,
+			"parentCellId": "23721e99-dd82-4881-a2c1-99be4a530dc3"
+		},
+		"72518127-cf06-4aba-a3bb-0ca900e5bb21": {
+			"path": "72518127-cf06-4aba-a3bb-0ca900e5bb21",
+			"cellName": "Utils",
+			"cellId": "72518127-cf06-4aba-a3bb-0ca900e5bb21",
+			"visible": true,
+			"parentCellId": "23721e99-dd82-4881-a2c1-99be4a530dc3"
+		},
+		"e0322b9d-7ff6-4d66-af27-b32ad340065b": {
+			"path": "e0322b9d-7ff6-4d66-af27-b32ad340065b",
+			"cellName": "monitorController.js",
+			"cellId": "e0322b9d-7ff6-4d66-af27-b32ad340065b",
+			"visible": true,
+			"parentCellId": "9817fcb9-dce8-4192-a71e-edf32875035d"
+		},
+		"022e6c49-8724-463a-8306-a380f7545ca1": {
+			"path": "022e6c49-8724-463a-8306-a380f7545ca1",
+			"cellName": "mongo",
+			"cellId": "022e6c49-8724-463a-8306-a380f7545ca1",
+			"visible": true,
+			"parentCellId": "99398059-7c94-4156-a51b-247e58ef67d9"
+		},
+		"2d77a256-2db9-4808-9604-38368096d85f": {
+			"path": "2d77a256-2db9-4808-9604-38368096d85f",
+			"cellName": "PulseQueue",
+			"cellId": "2d77a256-2db9-4808-9604-38368096d85f",
+			"visible": true,
+			"parentCellId": "2c027844-3cd9-4384-90f7-505f94a07e41"
+		},
+		"09a5c1ce-697a-481c-8133-ae583d2719a2": {
+			"path": "09a5c1ce-697a-481c-8133-ae583d2719a2",
+			"cellName": "networkService.js",
+			"cellId": "09a5c1ce-697a-481c-8133-ae583d2719a2",
+			"visible": true,
+			"parentCellId": "2c027844-3cd9-4384-90f7-505f94a07e41"
+		},
+		"db3967cc-8a6b-44eb-8241-9fa6c6f7918d": {
+			"path": "db3967cc-8a6b-44eb-8241-9fa6c6f7918d",
+			"cellName": "statusService.js",
+			"cellId": "db3967cc-8a6b-44eb-8241-9fa6c6f7918d",
+			"visible": true,
+			"parentCellId": "2c027844-3cd9-4384-90f7-505f94a07e41"
+		},
+		"93bfdb86-a66f-4152-96b8-1527c2ece3e8": {
+			"path": "93bfdb86-a66f-4152-96b8-1527c2ece3e8",
+			"cellName": "Uptime",
+			"cellId": "93bfdb86-a66f-4152-96b8-1527c2ece3e8",
+			"visible": true,
+			"parentCellId": "b7df1536-ca9c-4124-8c62-f99d26fdc2b0"
+		},
+		"5a7f828d-a740-4f00-9913-a7eb09557397": {
+			"path": "5a7f828d-a740-4f00-9913-a7eb09557397",
+			"cellName": "monitorHooks.js",
+			"cellId": "5a7f828d-a740-4f00-9913-a7eb09557397",
+			"visible": true,
+			"parentCellId": "e78e43dd-2258-400c-ba9b-ea4aa9e957cd"
+		},
+		"de3620c3-8da9-4551-b9cb-d99a5b4c0694": {
+			"path": "de3620c3-8da9-4551-b9cb-d99a5b4c0694",
+			"cellName": "NetworkService.js",
+			"cellId": "de3620c3-8da9-4551-b9cb-d99a5b4c0694",
+			"visible": true,
+			"parentCellId": "72518127-cf06-4aba-a3bb-0ca900e5bb21"
+		},
+		"4d078e59-a5e7-40f3-820c-b6687b8309b6": {
+			"path": "4d078e59-a5e7-40f3-820c-b6687b8309b6",
+			"cellName": "modules",
+			"cellId": "4d078e59-a5e7-40f3-820c-b6687b8309b6",
+			"visible": true,
+			"parentCellId": "022e6c49-8724-463a-8306-a380f7545ca1"
+		},
+		"fd9a7c7b-227f-4d7d-90a0-15dd302abb37": {
+			"path": "fd9a7c7b-227f-4d7d-90a0-15dd302abb37",
+			"cellName": "PulseQueue.js",
+			"cellId": "fd9a7c7b-227f-4d7d-90a0-15dd302abb37",
+			"visible": true,
+			"parentCellId": "2d77a256-2db9-4808-9604-38368096d85f"
+		},
+		"589871f1-0543-4e77-8e98-ba4a8871cfde": {
+			"path": "589871f1-0543-4e77-8e98-ba4a8871cfde",
+			"cellName": "PulseQueueHelper.js",
+			"cellId": "589871f1-0543-4e77-8e98-ba4a8871cfde",
+			"visible": true,
+			"parentCellId": "2d77a256-2db9-4808-9604-38368096d85f"
+		},
+		"bd93ad01-7723-4634-a502-fa2b072c61b0": {
+			"path": "bd93ad01-7723-4634-a502-fa2b072c61b0",
+			"cellName": "Create",
+			"cellId": "bd93ad01-7723-4634-a502-fa2b072c61b0",
+			"visible": true,
+			"parentCellId": "93bfdb86-a66f-4152-96b8-1527c2ece3e8"
+		},
+		"c596a2ea-9acb-4a14-90e8-c9ee700449c3": {
+			"path": "c596a2ea-9acb-4a14-90e8-c9ee700449c3",
+			"cellName": "Details",
+			"cellId": "c596a2ea-9acb-4a14-90e8-c9ee700449c3",
+			"visible": true,
+			"parentCellId": "93bfdb86-a66f-4152-96b8-1527c2ece3e8"
+		},
+		"0ee99b12-acf1-430e-8a29-8012fde80083": {
+			"path": "0ee99b12-acf1-430e-8a29-8012fde80083",
+			"cellName": "monitorModule.js",
+			"cellId": "0ee99b12-acf1-430e-8a29-8012fde80083",
+			"visible": true,
+			"parentCellId": "4d078e59-a5e7-40f3-820c-b6687b8309b6"
+		},
+		"c28a96e4-7411-4cfd-9116-2eccc5a45e39": {
+			"path": "c28a96e4-7411-4cfd-9116-2eccc5a45e39",
+			"cellName": "index.jsx",
+			"cellId": "c28a96e4-7411-4cfd-9116-2eccc5a45e39",
+			"visible": true,
+			"parentCellId": "bd93ad01-7723-4634-a502-fa2b072c61b0"
+		},
+		"df14458e-5006-4101-b4b2-946ec116102b": {
+			"path": "df14458e-5006-4101-b4b2-946ec116102b",
+			"cellName": "index.jsx",
+			"cellId": "df14458e-5006-4101-b4b2-946ec116102b",
+			"visible": true,
+			"parentCellId": "c596a2ea-9acb-4a14-90e8-c9ee700449c3"
+		},
+		"7576b5e3-fc0a-4771-82ce-bbf4905f6dee": {
+			"path": "7576b5e3-fc0a-4771-82ce-bbf4905f6dee",
+			"cellName": "User Initiates Monitor Creation - index.jsx:L99-150",
+			"cellId": "7576b5e3-fc0a-4771-82ce-bbf4905f6dee",
+			"visible": true,
+			"parentCellId": "c28a96e4-7411-4cfd-9116-2eccc5a45e39"
+		},
+		"client/src/Pages/Uptime/Create/index.jsx-simstep-4b027a51-173b-4538-a9c0-632891559679": {
+			"path": "client/src/Pages/Uptime/Create/index.jsx-simstep-4b027a51-173b-4538-a9c0-632891559679",
+			"fileName": "index.jsx",
+			"cellName": "User Initiates Monitor Creation - index.jsx:L99-150",
+			"cellId": "7576b5e3-fc0a-4771-82ce-bbf4905f6dee",
+			"visible": true,
+			"startLine": 99,
+			"endLine": 150,
+			"parentCellId": "c28a96e4-7411-4cfd-9116-2eccc5a45e39",
+			"parentPath": "client/src/Pages/Uptime/Create/index.jsx"
+		},
+		"26f60271-d3c6-47f4-b86e-4c7b973b4b62": {
+			"path": "26f60271-d3c6-47f4-b86e-4c7b973b4b62",
+			"cellName": "Server Handles Monitor Creation - monitorController.js:L230-252",
+			"cellId": "26f60271-d3c6-47f4-b86e-4c7b973b4b62",
+			"visible": true,
+			"parentCellId": "e0322b9d-7ff6-4d66-af27-b32ad340065b"
+		},
+		"server/controllers/monitorController.js-simstep-fe7ed684-683b-4379-83d0-88d83287a6c4": {
+			"path": "server/controllers/monitorController.js-simstep-fe7ed684-683b-4379-83d0-88d83287a6c4",
+			"fileName": "monitorController.js",
+			"cellName": "Server Handles Monitor Creation - monitorController.js:L230-252",
+			"cellId": "26f60271-d3c6-47f4-b86e-4c7b973b4b62",
+			"visible": true,
+			"startLine": 230,
+			"endLine": 252,
+			"parentCellId": "e0322b9d-7ff6-4d66-af27-b32ad340065b",
+			"parentPath": "server/controllers/monitorController.js"
+		},
+		"a9566822-6698-4934-8d4d-406450ebfbb1": {
+			"path": "a9566822-6698-4934-8d4d-406450ebfbb1",
+			"cellName": "Persist Monitor in MongoDB - monitorModule.js:L675-683",
+			"cellId": "a9566822-6698-4934-8d4d-406450ebfbb1",
+			"visible": true,
+			"parentCellId": "0ee99b12-acf1-430e-8a29-8012fde80083"
+		},
+		"server/db/mongo/modules/monitorModule.js-simstep-f301d643-8738-4832-af50-64bdf9e5387b": {
+			"path": "server/db/mongo/modules/monitorModule.js-simstep-f301d643-8738-4832-af50-64bdf9e5387b",
+			"fileName": "monitorModule.js",
+			"cellName": "Persist Monitor in MongoDB - monitorModule.js:L675-683",
+			"cellId": "a9566822-6698-4934-8d4d-406450ebfbb1",
+			"visible": true,
+			"startLine": 675,
+			"endLine": 683,
+			"parentCellId": "0ee99b12-acf1-430e-8a29-8012fde80083",
+			"parentPath": "server/db/mongo/modules/monitorModule.js"
+		},
+		"f9b8a704-863c-4394-9b1f-c85da9e3edab": {
+			"path": "f9b8a704-863c-4394-9b1f-c85da9e3edab",
+			"cellName": "Job Queue Schedules the Check - PulseQueue.js:L43-55",
+			"cellId": "f9b8a704-863c-4394-9b1f-c85da9e3edab",
+			"visible": true,
+			"parentCellId": "fd9a7c7b-227f-4d7d-90a0-15dd302abb37"
+		},
+		"server/service/PulseQueue/PulseQueue.js-simstep-5ec481f0-a3cc-42e1-895d-506c231ce0d2": {
+			"path": "server/service/PulseQueue/PulseQueue.js-simstep-5ec481f0-a3cc-42e1-895d-506c231ce0d2",
+			"fileName": "PulseQueue.js",
+			"cellName": "Job Queue Schedules the Check - PulseQueue.js:L43-55",
+			"cellId": "f9b8a704-863c-4394-9b1f-c85da9e3edab",
+			"visible": true,
+			"startLine": 43,
+			"endLine": 55,
+			"parentCellId": "fd9a7c7b-227f-4d7d-90a0-15dd302abb37",
+			"parentPath": "server/service/PulseQueue/PulseQueue.js"
+		},
+		"d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3": {
+			"path": "d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3",
+			"cellName": "Perform Health Check via Network Service - networkService.js:L495-517",
+			"cellId": "d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3",
+			"visible": true,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2"
+		},
+		"server/service/networkService.js-simstep-9712c723-e62e-4a45-b116-6602376bab7d": {
+			"path": "server/service/networkService.js-simstep-9712c723-e62e-4a45-b116-6602376bab7d",
+			"fileName": "networkService.js",
+			"cellName": "Perform Health Check via Network Service - networkService.js:L495-517",
+			"cellId": "d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3",
+			"visible": true,
+			"startLine": 495,
+			"endLine": 517,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2",
+			"parentPath": "server/service/networkService.js"
+		},
+		"54faa23b-86a7-4392-abe3-cc727d7d8dca": {
+			"path": "54faa23b-86a7-4392-abe3-cc727d7d8dca",
+			"cellName": "Update Status and Record Check - statusService.js:L104-157",
+			"cellId": "54faa23b-86a7-4392-abe3-cc727d7d8dca",
+			"visible": true,
+			"parentCellId": "db3967cc-8a6b-44eb-8241-9fa6c6f7918d"
+		},
+		"server/service/statusService.js-simstep-ff501493-53b8-4532-9910-d14b53f1214e": {
+			"path": "server/service/statusService.js-simstep-ff501493-53b8-4532-9910-d14b53f1214e",
+			"fileName": "statusService.js",
+			"cellName": "Update Status and Record Check - statusService.js:L104-157",
+			"cellId": "54faa23b-86a7-4392-abe3-cc727d7d8dca",
+			"visible": true,
+			"startLine": 104,
+			"endLine": 157,
+			"parentCellId": "db3967cc-8a6b-44eb-8241-9fa6c6f7918d",
+			"parentPath": "server/service/statusService.js"
+		},
+		"bf55a018-5934-4087-ad6e-c97671c62fb3": {
+			"path": "bf55a018-5934-4087-ad6e-c97671c62fb3",
+			"cellName": "User Views Monitor Details - index.jsx:L51-56",
+			"cellId": "bf55a018-5934-4087-ad6e-c97671c62fb3",
+			"visible": true,
+			"parentCellId": "df14458e-5006-4101-b4b2-946ec116102b"
+		},
+		"client/src/Pages/Uptime/Details/index.jsx-simstep-c32abb97-546c-4e37-aff9-6de778040b10": {
+			"path": "client/src/Pages/Uptime/Details/index.jsx-simstep-c32abb97-546c-4e37-aff9-6de778040b10",
+			"fileName": "index.jsx",
+			"cellName": "User Views Monitor Details - index.jsx:L51-56",
+			"cellId": "bf55a018-5934-4087-ad6e-c97671c62fb3",
+			"visible": true,
+			"startLine": 51,
+			"endLine": 56,
+			"parentCellId": "df14458e-5006-4101-b4b2-946ec116102b",
+			"parentPath": "client/src/Pages/Uptime/Details/index.jsx"
+		},
+		"b6594100-f494-4742-b4c2-61408fc625c1": {
+			"path": "b6594100-f494-4742-b4c2-61408fc625c1",
+			"cellName": "Server Gathers and Aggregates Monitor Data - monitorModule.js:L338-371",
+			"cellId": "b6594100-f494-4742-b4c2-61408fc625c1",
+			"visible": true,
+			"parentCellId": "0ee99b12-acf1-430e-8a29-8012fde80083"
+		},
+		"server/db/mongo/modules/monitorModule.js-simstep-5519e622-500c-444c-8b75-315819fac904": {
+			"path": "server/db/mongo/modules/monitorModule.js-simstep-5519e622-500c-444c-8b75-315819fac904",
+			"fileName": "monitorModule.js",
+			"cellName": "Server Gathers and Aggregates Monitor Data - monitorModule.js:L338-371",
+			"cellId": "b6594100-f494-4742-b4c2-61408fc625c1",
+			"visible": true,
+			"startLine": 338,
+			"endLine": 371,
+			"parentCellId": "0ee99b12-acf1-430e-8a29-8012fde80083",
+			"parentPath": "server/db/mongo/modules/monitorModule.js"
+		},
+		"8067217d-6d02-4eb4-8e16-e1ad181e85cb": {
+			"path": "8067217d-6d02-4eb4-8e16-e1ad181e85cb",
+			"cellName": "Frontend Renders Monitor Details Page - index.jsx:L141-188",
+			"cellId": "8067217d-6d02-4eb4-8e16-e1ad181e85cb",
+			"visible": true,
+			"parentCellId": "df14458e-5006-4101-b4b2-946ec116102b"
+		},
+		"client/src/Pages/Uptime/Details/index.jsx-simstep-62672825-5239-48b8-a6f6-9c2ff156c473": {
+			"path": "client/src/Pages/Uptime/Details/index.jsx-simstep-62672825-5239-48b8-a6f6-9c2ff156c473",
+			"fileName": "index.jsx",
+			"cellName": "Frontend Renders Monitor Details Page - index.jsx:L141-188",
+			"cellId": "8067217d-6d02-4eb4-8e16-e1ad181e85cb",
+			"visible": true,
+			"startLine": 141,
+			"endLine": 188,
+			"parentCellId": "df14458e-5006-4101-b4b2-946ec116102b",
+			"parentPath": "client/src/Pages/Uptime/Details/index.jsx"
+		},
+		"2d3f34ef-4142-4996-ac1a-1310007de314": {
+			"path": "2d3f34ef-4142-4996-ac1a-1310007de314",
+			"cellName": "Send Create\nMonitor Request",
+			"cellId": "2d3f34ef-4142-4996-ac1a-1310007de314",
+			"visible": true
+		},
+		"generated-edge-simstep-9630ce33-6e7f-4366-9920-292c796236ac-2d3f34ef-4142-4996-ac1a-1310007de314": {
+			"path": "generated-edge-simstep-9630ce33-6e7f-4366-9920-292c796236ac-2d3f34ef-4142-4996-ac1a-1310007de314",
+			"cellName": "Send Create Monitor Request",
+			"cellId": "2d3f34ef-4142-4996-ac1a-1310007de314",
+			"visible": true
+		},
+		"ebad0b72-35d1-493f-aa9a-5055030cb996": {
+			"path": "ebad0b72-35d1-493f-aa9a-5055030cb996",
+			"cellName": "Save Monitor\nto Database",
+			"cellId": "ebad0b72-35d1-493f-aa9a-5055030cb996",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031"
+		},
+		"generated-edge-simstep-ff69cbda-5b1c-4c3f-819d-b9af5b68dea2-ebad0b72-35d1-493f-aa9a-5055030cb996": {
+			"path": "generated-edge-simstep-ff69cbda-5b1c-4c3f-819d-b9af5b68dea2-ebad0b72-35d1-493f-aa9a-5055030cb996",
+			"cellName": "Save Monitor to Database",
+			"cellId": "ebad0b72-35d1-493f-aa9a-5055030cb996",
+			"visible": true
+		},
+		"1eff3a77-01e5-466e-8be8-9e71f7676a66": {
+			"path": "1eff3a77-01e5-466e-8be8-9e71f7676a66",
+			"cellName": "Add Monitor\nto Job\nQueue",
+			"cellId": "1eff3a77-01e5-466e-8be8-9e71f7676a66",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031"
+		},
+		"generated-edge-simstep-04aef699-f4f7-4ca0-a8de-983c247516f8-1eff3a77-01e5-466e-8be8-9e71f7676a66": {
+			"path": "generated-edge-simstep-04aef699-f4f7-4ca0-a8de-983c247516f8-1eff3a77-01e5-466e-8be8-9e71f7676a66",
+			"cellName": "Add Monitor to Job Queue",
+			"cellId": "1eff3a77-01e5-466e-8be8-9e71f7676a66",
+			"visible": true
+		},
+		"a14921eb-9f3f-482f-86dd-ae3d9ef3ca91": {
+			"path": "a14921eb-9f3f-482f-86dd-ae3d9ef3ca91",
+			"cellName": "Job Worker\nExecutes Check",
+			"cellId": "a14921eb-9f3f-482f-86dd-ae3d9ef3ca91",
+			"visible": true,
+			"parentCellId": "2c027844-3cd9-4384-90f7-505f94a07e41"
+		},
+		"generated-edge-simstep-79de5fa6-acbf-4b40-a1b2-a7f6208ad6a7-a14921eb-9f3f-482f-86dd-ae3d9ef3ca91": {
+			"path": "generated-edge-simstep-79de5fa6-acbf-4b40-a1b2-a7f6208ad6a7-a14921eb-9f3f-482f-86dd-ae3d9ef3ca91",
+			"cellName": "Job Worker Executes Check",
+			"cellId": "a14921eb-9f3f-482f-86dd-ae3d9ef3ca91",
+			"visible": true
+		},
+		"0449f973-01b3-43a8-adcb-de81683bdea8": {
+			"path": "0449f973-01b3-43a8-adcb-de81683bdea8",
+			"cellName": "Pass Check\nResult to\nStatus Service",
+			"cellId": "0449f973-01b3-43a8-adcb-de81683bdea8",
+			"visible": true,
+			"parentCellId": "2c027844-3cd9-4384-90f7-505f94a07e41"
+		},
+		"generated-edge-simstep-57b06abd-4ed2-4f69-898a-5dbd5b49b39e-0449f973-01b3-43a8-adcb-de81683bdea8": {
+			"path": "generated-edge-simstep-57b06abd-4ed2-4f69-898a-5dbd5b49b39e-0449f973-01b3-43a8-adcb-de81683bdea8",
+			"cellName": "Pass Check Result to Status Service",
+			"cellId": "0449f973-01b3-43a8-adcb-de81683bdea8",
+			"visible": true
+		},
+		"9fdfb8fe-f348-4c98-a4d7-9f88ce024de3": {
+			"path": "9fdfb8fe-f348-4c98-a4d7-9f88ce024de3",
+			"cellName": "Persist Check\nRecord to\nDatabase",
+			"cellId": "9fdfb8fe-f348-4c98-a4d7-9f88ce024de3",
+			"visible": true
+		},
+		"generated-edge-simstep-985817e9-e7c0-4e28-a94a-471ce5f8725c-9fdfb8fe-f348-4c98-a4d7-9f88ce024de3": {
+			"path": "generated-edge-simstep-985817e9-e7c0-4e28-a94a-471ce5f8725c-9fdfb8fe-f348-4c98-a4d7-9f88ce024de3",
+			"cellName": "Persist Check Record to Database",
+			"cellId": "9fdfb8fe-f348-4c98-a4d7-9f88ce024de3",
+			"visible": true
+		},
+		"29d9e788-bcdb-4e59-a209-a9e2370dbff1": {
+			"path": "29d9e788-bcdb-4e59-a209-a9e2370dbff1",
+			"cellName": "Request Monitor\nDetails from\nServer",
+			"cellId": "29d9e788-bcdb-4e59-a209-a9e2370dbff1",
+			"visible": true
+		},
+		"generated-edge-simstep-f049208c-ff89-4d74-9bbe-4637341d47d6-29d9e788-bcdb-4e59-a209-a9e2370dbff1": {
+			"path": "generated-edge-simstep-f049208c-ff89-4d74-9bbe-4637341d47d6-29d9e788-bcdb-4e59-a209-a9e2370dbff1",
+			"cellName": "Request Monitor Details from Server",
+			"cellId": "29d9e788-bcdb-4e59-a209-a9e2370dbff1",
+			"visible": true
+		},
+		"24b5566e-4bd7-48a3-a3fe-ec8633b509ba": {
+			"path": "24b5566e-4bd7-48a3-a3fe-ec8633b509ba",
+			"cellName": "Send Aggregated\nData to\nClient",
+			"cellId": "24b5566e-4bd7-48a3-a3fe-ec8633b509ba",
+			"visible": true
+		},
+		"generated-edge-simstep-16829459-2793-498d-bcf7-3e5630adf89d-24b5566e-4bd7-48a3-a3fe-ec8633b509ba": {
+			"path": "generated-edge-simstep-16829459-2793-498d-bcf7-3e5630adf89d-24b5566e-4bd7-48a3-a3fe-ec8633b509ba",
+			"cellName": "Send Aggregated Data to Client",
+			"cellId": "24b5566e-4bd7-48a3-a3fe-ec8633b509ba",
+			"visible": true
+		},
+		"641b6571-3e47-4580-b79d-25729504c8c5": {
+			"path": "641b6571-3e47-4580-b79d-25729504c8c5",
+			"cellName": "validation",
+			"cellId": "641b6571-3e47-4580-b79d-25729504c8c5",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031"
+		},
+		"d1e25d19-dfe0-4451-8201-6ee6661eb6c1": {
+			"path": "d1e25d19-dfe0-4451-8201-6ee6661eb6c1",
+			"cellName": "joi.js",
+			"cellId": "d1e25d19-dfe0-4451-8201-6ee6661eb6c1",
+			"visible": true,
+			"parentCellId": "641b6571-3e47-4580-b79d-25729504c8c5"
+		},
+		"d14939cb-68cc-40c6-a93f-f6a73b4a6ff8": {
+			"path": "d14939cb-68cc-40c6-a93f-f6a73b4a6ff8",
+			"cellName": "models",
+			"cellId": "d14939cb-68cc-40c6-a93f-f6a73b4a6ff8",
+			"visible": true,
+			"parentCellId": "99398059-7c94-4156-a51b-247e58ef67d9"
+		},
+		"703ab886-9e78-45bb-99de-361ebd755685": {
+			"path": "703ab886-9e78-45bb-99de-361ebd755685",
+			"cellName": "Monitor.js",
+			"cellId": "703ab886-9e78-45bb-99de-361ebd755685",
+			"visible": true,
+			"parentCellId": "d14939cb-68cc-40c6-a93f-f6a73b4a6ff8"
+		},
+		"0d2194b6-976b-4f55-b0d5-b42381bb9542": {
+			"path": "0d2194b6-976b-4f55-b0d5-b42381bb9542",
+			"cellName": "Check.js",
+			"cellId": "0d2194b6-976b-4f55-b0d5-b42381bb9542",
+			"visible": true,
+			"parentCellId": "d14939cb-68cc-40c6-a93f-f6a73b4a6ff8"
+		},
+		"c11e0d58-9147-4474-acab-3c2e77cfeb4a": {
+			"path": "c11e0d58-9147-4474-acab-3c2e77cfeb4a",
+			"cellName": "User Configures Advanced Uptime Check - index.jsx:L411-463",
+			"cellId": "c11e0d58-9147-4474-acab-3c2e77cfeb4a",
+			"visible": true,
+			"parentCellId": "c28a96e4-7411-4cfd-9116-2eccc5a45e39"
+		},
+		"client/src/Pages/Uptime/Create/index.jsx-simstep-7b8edb1c-a757-444a-8c3a-032dac2b2e3b": {
+			"path": "client/src/Pages/Uptime/Create/index.jsx-simstep-7b8edb1c-a757-444a-8c3a-032dac2b2e3b",
+			"fileName": "index.jsx",
+			"cellName": "User Configures Advanced Uptime Check - index.jsx:L411-463",
+			"cellId": "c11e0d58-9147-4474-acab-3c2e77cfeb4a",
+			"visible": true,
+			"startLine": 411,
+			"endLine": 463,
+			"parentCellId": "c28a96e4-7411-4cfd-9116-2eccc5a45e39",
+			"parentPath": "client/src/Pages/Uptime/Create/index.jsx"
+		},
+		"df5009e1-7e72-4464-a453-d558eb2dcf0c": {
+			"path": "df5009e1-7e72-4464-a453-d558eb2dcf0c",
+			"cellName": "Prepare and Send API Request - monitorHooks.js:L327-344",
+			"cellId": "df5009e1-7e72-4464-a453-d558eb2dcf0c",
+			"visible": true,
+			"parentCellId": "5a7f828d-a740-4f00-9913-a7eb09557397"
+		},
+		"client/src/Hooks/monitorHooks.js-simstep-3097aacf-2823-42e6-94a1-b86c416b3a1e": {
+			"path": "client/src/Hooks/monitorHooks.js-simstep-3097aacf-2823-42e6-94a1-b86c416b3a1e",
+			"fileName": "monitorHooks.js",
+			"cellName": "Prepare and Send API Request - monitorHooks.js:L327-344",
+			"cellId": "df5009e1-7e72-4464-a453-d558eb2dcf0c",
+			"visible": true,
+			"startLine": 327,
+			"endLine": 344,
+			"parentCellId": "5a7f828d-a740-4f00-9913-a7eb09557397",
+			"parentPath": "client/src/Hooks/monitorHooks.js"
+		},
+		"45fcab12-2d79-4353-9cc7-6ff6f4d44485": {
+			"path": "45fcab12-2d79-4353-9cc7-6ff6f4d44485",
+			"cellName": "Validate Monitor Configuration on Server - joi.js:L204-206",
+			"cellId": "45fcab12-2d79-4353-9cc7-6ff6f4d44485",
+			"visible": true,
+			"parentCellId": "d1e25d19-dfe0-4451-8201-6ee6661eb6c1"
+		},
+		"server/validation/joi.js-simstep-d482e822-fbda-4098-85ce-832ea3149bae": {
+			"path": "server/validation/joi.js-simstep-d482e822-fbda-4098-85ce-832ea3149bae",
+			"fileName": "joi.js",
+			"cellName": "Validate Monitor Configuration on Server - joi.js:L204-206",
+			"cellId": "45fcab12-2d79-4353-9cc7-6ff6f4d44485",
+			"visible": true,
+			"startLine": 204,
+			"endLine": 206,
+			"parentCellId": "d1e25d19-dfe0-4451-8201-6ee6661eb6c1",
+			"parentPath": "server/validation/joi.js"
+		},
+		"f2cedce5-e1af-4267-b0f1-ab04f057e05b": {
+			"path": "f2cedce5-e1af-4267-b0f1-ab04f057e05b",
+			"cellName": "Store Configuration in Database - Monitor.js:L42-52",
+			"cellId": "f2cedce5-e1af-4267-b0f1-ab04f057e05b",
+			"visible": true,
+			"parentCellId": "703ab886-9e78-45bb-99de-361ebd755685"
+		},
+		"server/db/models/Monitor.js-simstep-aba059e7-1ce0-427a-8536-bab6d463380f": {
+			"path": "server/db/models/Monitor.js-simstep-aba059e7-1ce0-427a-8536-bab6d463380f",
+			"fileName": "Monitor.js",
+			"cellName": "Store Configuration in Database - Monitor.js:L42-52",
+			"cellId": "f2cedce5-e1af-4267-b0f1-ab04f057e05b",
+			"visible": true,
+			"startLine": 42,
+			"endLine": 52,
+			"parentCellId": "703ab886-9e78-45bb-99de-361ebd755685",
+			"parentPath": "server/db/models/Monitor.js"
+		},
+		"27cb1f9a-8341-4efc-b2bc-fe578184ebcf": {
+			"path": "27cb1f9a-8341-4efc-b2bc-fe578184ebcf",
+			"cellName": "Initiate HTTP Check - networkService.js:L140-147",
+			"cellId": "27cb1f9a-8341-4efc-b2bc-fe578184ebcf",
+			"visible": true,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2"
+		},
+		"server/service/networkService.js-simstep-2f5732df-2ac4-44b2-b43e-f4c211be835d": {
+			"path": "server/service/networkService.js-simstep-2f5732df-2ac4-44b2-b43e-f4c211be835d",
+			"fileName": "networkService.js",
+			"cellName": "Initiate HTTP Check - networkService.js:L140-147",
+			"cellId": "27cb1f9a-8341-4efc-b2bc-fe578184ebcf",
+			"visible": true,
+			"startLine": 140,
+			"endLine": 147,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2",
+			"parentPath": "server/service/networkService.js"
+		},
+		"06ca9228-5d0b-4293-aa64-ab8866597f51": {
+			"path": "06ca9228-5d0b-4293-aa64-ab8866597f51",
+			"cellName": "Extract Value with JSONPath - networkService.js:L205-213",
+			"cellId": "06ca9228-5d0b-4293-aa64-ab8866597f51",
+			"visible": true,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2"
+		},
+		"server/service/networkService.js-simstep-199b75d8-53ee-45dd-a634-0fc9f8c68a04": {
+			"path": "server/service/networkService.js-simstep-199b75d8-53ee-45dd-a634-0fc9f8c68a04",
+			"fileName": "networkService.js",
+			"cellName": "Extract Value with JSONPath - networkService.js:L205-213",
+			"cellId": "06ca9228-5d0b-4293-aa64-ab8866597f51",
+			"visible": true,
+			"startLine": 205,
+			"endLine": 213,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2",
+			"parentPath": "server/service/networkService.js"
+		},
+		"91fa91a3-bc36-42d7-aa08-9301355e7014": {
+			"path": "91fa91a3-bc36-42d7-aa08-9301355e7014",
+			"cellName": "Compare Extracted vs. Expected Value - networkService.js:L222-231",
+			"cellId": "91fa91a3-bc36-42d7-aa08-9301355e7014",
+			"visible": true,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2"
+		},
+		"server/service/networkService.js-simstep-9de8cb15-b189-4ee1-b0f1-eef690dcecab": {
+			"path": "server/service/networkService.js-simstep-9de8cb15-b189-4ee1-b0f1-eef690dcecab",
+			"fileName": "networkService.js",
+			"cellName": "Compare Extracted vs. Expected Value - networkService.js:L222-231",
+			"cellId": "91fa91a3-bc36-42d7-aa08-9301355e7014",
+			"visible": true,
+			"startLine": 222,
+			"endLine": 231,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2",
+			"parentPath": "server/service/networkService.js"
+		},
+		"bbfd54ad-d5de-4525-9871-79fc6c30edc3": {
+			"path": "bbfd54ad-d5de-4525-9871-79fc6c30edc3",
+			"cellName": "Store Uptime Check Result - Check.js:L1",
+			"cellId": "bbfd54ad-d5de-4525-9871-79fc6c30edc3",
+			"visible": true,
+			"parentCellId": "0d2194b6-976b-4f55-b0d5-b42381bb9542"
+		},
+		"server/db/models/Check.js-simstep-c5447819-817d-472e-ac18-c27fcf9f1049": {
+			"path": "server/db/models/Check.js-simstep-c5447819-817d-472e-ac18-c27fcf9f1049",
+			"fileName": "Check.js",
+			"cellName": "Store Uptime Check Result - Check.js:L1",
+			"cellId": "bbfd54ad-d5de-4525-9871-79fc6c30edc3",
+			"visible": true,
+			"startLine": 1,
+			"endLine": 1,
+			"parentCellId": "0d2194b6-976b-4f55-b0d5-b42381bb9542",
+			"parentPath": "server/db/models/Check.js"
+		},
+		"b9c5f64b-8e6d-45cd-8dae-f8c32199574d": {
+			"path": "b9c5f64b-8e6d-45cd-8dae-f8c32199574d",
+			"cellName": "Submitting Monitor\nConfiguration",
+			"cellId": "b9c5f64b-8e6d-45cd-8dae-f8c32199574d",
+			"visible": true,
+			"parentCellId": "23721e99-dd82-4881-a2c1-99be4a530dc3"
+		},
+		"generated-edge-simstep-fe951f27-d44e-434c-9139-8f0e50423276-b9c5f64b-8e6d-45cd-8dae-f8c32199574d": {
+			"path": "generated-edge-simstep-fe951f27-d44e-434c-9139-8f0e50423276-b9c5f64b-8e6d-45cd-8dae-f8c32199574d",
+			"cellName": "Submitting Monitor Configuration",
+			"cellId": "b9c5f64b-8e6d-45cd-8dae-f8c32199574d",
+			"visible": true
+		},
+		"d88f6de7-e2ce-49d0-ada4-5ac530f1143b": {
+			"path": "d88f6de7-e2ce-49d0-ada4-5ac530f1143b",
+			"cellName": "Transmit Monitor\nConfiguration to\nServer",
+			"cellId": "d88f6de7-e2ce-49d0-ada4-5ac530f1143b",
+			"visible": true
+		},
+		"generated-edge-simstep-e8687f11-b430-48a0-9cb6-9df02380c523-d88f6de7-e2ce-49d0-ada4-5ac530f1143b": {
+			"path": "generated-edge-simstep-e8687f11-b430-48a0-9cb6-9df02380c523-d88f6de7-e2ce-49d0-ada4-5ac530f1143b",
+			"cellName": "Transmit Monitor Configuration to Server",
+			"cellId": "d88f6de7-e2ce-49d0-ada4-5ac530f1143b",
+			"visible": true
+		},
+		"484b09ab-8a9d-4c35-9e29-7b79b5ded453": {
+			"path": "484b09ab-8a9d-4c35-9e29-7b79b5ded453",
+			"cellName": "Persist Monitor\nConfiguration",
+			"cellId": "484b09ab-8a9d-4c35-9e29-7b79b5ded453",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031"
+		},
+		"generated-edge-simstep-823f7f08-0a18-45fc-9109-2fa4943e88ba-484b09ab-8a9d-4c35-9e29-7b79b5ded453": {
+			"path": "generated-edge-simstep-823f7f08-0a18-45fc-9109-2fa4943e88ba-484b09ab-8a9d-4c35-9e29-7b79b5ded453",
+			"cellName": "Persist Monitor Configuration",
+			"cellId": "484b09ab-8a9d-4c35-9e29-7b79b5ded453",
+			"visible": true
+		},
+		"1feaebcf-7089-4f2c-b386-3d55f4c9c097": {
+			"path": "1feaebcf-7089-4f2c-b386-3d55f4c9c097",
+			"cellName": "Uptime Check\nJob Enqueued",
+			"cellId": "1feaebcf-7089-4f2c-b386-3d55f4c9c097",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031"
+		},
+		"generated-edge-simstep-655c7a59-83d2-482b-8a4a-000ee967c379-1feaebcf-7089-4f2c-b386-3d55f4c9c097": {
+			"path": "generated-edge-simstep-655c7a59-83d2-482b-8a4a-000ee967c379-1feaebcf-7089-4f2c-b386-3d55f4c9c097",
+			"cellName": "Uptime Check Job Enqueued",
+			"cellId": "1feaebcf-7089-4f2c-b386-3d55f4c9c097",
+			"visible": true
+		},
+		"ab2c0817-0c41-4ab8-8b51-c42850ea4ef1": {
+			"path": "ab2c0817-0c41-4ab8-8b51-c42850ea4ef1",
+			"cellName": "Fetch Data\nfrom Target\nAPI",
+			"cellId": "ab2c0817-0c41-4ab8-8b51-c42850ea4ef1",
+			"visible": true,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2"
+		},
+		"generated-edge-simstep-fcd3a3ac-d3ab-4d49-9104-a9add33e2039-ab2c0817-0c41-4ab8-8b51-c42850ea4ef1": {
+			"path": "generated-edge-simstep-fcd3a3ac-d3ab-4d49-9104-a9add33e2039-ab2c0817-0c41-4ab8-8b51-c42850ea4ef1",
+			"cellName": "Fetch Data from Target API",
+			"cellId": "ab2c0817-0c41-4ab8-8b51-c42850ea4ef1",
+			"visible": true
+		},
+		"a266e0a6-125b-45c9-986b-780f930d7d71": {
+			"path": "a266e0a6-125b-45c9-986b-780f930d7d71",
+			"cellName": "Pass Extracted\nValue to\nMatcher",
+			"cellId": "a266e0a6-125b-45c9-986b-780f930d7d71",
+			"visible": true,
+			"parentCellId": "09a5c1ce-697a-481c-8133-ae583d2719a2"
+		},
+		"generated-edge-simstep-e8e7a414-c259-47f8-b25a-f2e8d29b6eea-a266e0a6-125b-45c9-986b-780f930d7d71": {
+			"path": "generated-edge-simstep-e8e7a414-c259-47f8-b25a-f2e8d29b6eea-a266e0a6-125b-45c9-986b-780f930d7d71",
+			"cellName": "Pass Extracted Value to Matcher",
+			"cellId": "a266e0a6-125b-45c9-986b-780f930d7d71",
+			"visible": true
+		},
+		"09282ff5-eddf-4f13-b95f-420158c3b5b5": {
+			"path": "09282ff5-eddf-4f13-b95f-420158c3b5b5",
+			"cellName": "Return Final\nCheck Result",
+			"cellId": "09282ff5-eddf-4f13-b95f-420158c3b5b5",
+			"visible": true,
+			"parentCellId": "dfdbbcfd-34de-4608-8bb5-0f4148657031"
+		},
+		"generated-edge-simstep-3e4c1686-1326-4270-8a51-c52e994e863c-09282ff5-eddf-4f13-b95f-420158c3b5b5": {
+			"path": "generated-edge-simstep-3e4c1686-1326-4270-8a51-c52e994e863c-09282ff5-eddf-4f13-b95f-420158c3b5b5",
+			"cellName": "Return Final Check Result",
+			"cellId": "09282ff5-eddf-4f13-b95f-420158c3b5b5",
+			"visible": true
+		}
+	},
+	"simulations": {
+		"Uptime and Service Monitoring": {
+			"name": "Uptime and Service Monitoring",
+			"simSteps": [
+				{
+					"simStepId": "4b027a51-173b-4538-a9c0-632891559679",
+					"diagramNodeId": "7576b5e3-fc0a-4771-82ce-bbf4905f6dee",
+					"simStepLabel": "User Initiates Monitor Creation",
+					"simStepDescription": "On the 'Create Uptime Monitor' page, the user selects the monitor type (e.g., HTTP), fills in the URL, display name, and check frequency, then clicks the 'Create monitor' button. This triggers the `onSubmit` event handler.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "client/src/Pages/Uptime/Create/index.jsx",
+						"startLine": "99",
+						"endLine": "150",
+						"relevantVariables": [
+							"onSubmit",
+							"createMonitor",
+							"monitorValidation",
+							"setErrors"
+						]
+					},
+					"inputDataExample": "{\"event\": {\"type\": \"click\"}}",
+					"outputDataExample": "{\"monitor\": {\"url\": \"google.com\", \"name\": \"Google\", \"type\": \"http\", \"interval\": 60000, \"notifications\": [], \"ignoreTlsErrors\": false, \"matchMethod\": \"equal\", \"expectedValue\": \"\", \"jsonPath\": \"\"}, \"redirect\": \"/uptime\"}"
+				},
+				{
+					"simStepId": "9630ce33-6e7f-4366-9920-292c796236ac",
+					"diagramNodeId": "2d3f34ef-4142-4996-ac1a-1310007de314",
+					"simStepLabel": "Send Create Monitor Request",
+					"simStepDescription": "The `useCreateMonitor` hook is called, which then uses the `networkService` to send a POST request to the `/api/v1/monitors` endpoint with the new monitor's configuration in the request body.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "client/src/Hooks/monitorHooks.js",
+						"startLine": "285",
+						"endLine": "285",
+						"relevantVariables": [
+							"networkService.createMonitor"
+						]
+					},
+					"inputDataExample": "{\"monitor\": {\"url\": \"https://google.com\", \"name\": \"Google\", \"type\": \"http\", \"interval\": 60000, \"description\": \"Google\", \"notifications\": []}}",
+					"outputDataExample": "{\"monitor\": {\"url\": \"https://google.com\", \"name\": \"Google\", \"type\": \"http\", \"interval\": 60000, \"description\": \"Google\", \"notifications\": []}}"
+				},
+				{
+					"simStepId": "fe7ed684-683b-4379-83d0-88d83287a6c4",
+					"diagramNodeId": "26f60271-d3c6-47f4-b86e-4c7b973b4b62",
+					"simStepLabel": "Server Handles Monitor Creation",
+					"simStepDescription": "The backend receives the API request at the `/monitors` route. The `monitorController.createMonitor` method handles the request. It retrieves the user's ID and team ID from the request object and calls the database module to persist the new monitor.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/controllers/monitorController.js",
+						"startLine": "230",
+						"endLine": "252",
+						"relevantVariables": [
+							"createMonitor",
+							"this.db.createMonitor",
+							"this.jobQueue.addJob"
+						]
+					},
+					"inputDataExample": "{\"body\": {\"url\": \"https://google.com\", \"name\": \"Google\", \"type\": \"http\", \"interval\": 60000, \"description\": \"Google\", \"notifications\": []}, \"user\": {\"_id\": \"user_456\", \"teamId\": \"team_789\"}}",
+					"outputDataExample": "{\"body\": {\"url\": \"https://google.com\", \"name\": \"Google\", \"type\": \"http\", \"interval\": 60000, \"description\": \"Google\", \"notifications\": []}, \"teamId\": \"team_789\", \"userId\": \"user_456\"}"
+				},
+				{
+					"simStepId": "ff69cbda-5b1c-4c3f-819d-b9af5b68dea2",
+					"diagramNodeId": "ebad0b72-35d1-493f-aa9a-5055030cb996",
+					"simStepLabel": "Save Monitor to Database",
+					"simStepDescription": "The controller invokes the database module, passing the monitor data along with user and team IDs to be saved.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/controllers/monitorController.js",
+						"startLine": "236",
+						"endLine": "241",
+						"relevantVariables": [
+							"this.db.createMonitor"
+						]
+					},
+					"inputDataExample": "{\"body\": {\"url\": \"https://google.com\", \"name\": \"Google\", \"type\": \"http\", \"interval\": 60000, \"description\": \"Google\", \"notifications\": []}, \"teamId\": \"team_789\", \"userId\": \"user_456\"}",
+					"outputDataExample": "{\"body\": {\"url\": \"https://google.com\", \"name\": \"Google\", \"type\": \"http\", \"interval\": 60000, \"description\": \"Google\", \"notifications\": []}, \"teamId\": \"team_789\", \"userId\": \"user_456\"}"
+				},
+				{
+					"simStepId": "f301d643-8738-4832-af50-64bdf9e5387b",
+					"diagramNodeId": "a9566822-6698-4934-8d4d-406450ebfbb1",
+					"simStepLabel": "Persist Monitor in MongoDB",
+					"simStepDescription": "The `monitorModule.createMonitor` function creates a new instance of the Mongoose `Monitor` model and saves it to the MongoDB database.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/db/mongo/modules/monitorModule.js",
+						"startLine": "675",
+						"endLine": "683",
+						"relevantVariables": [
+							"createMonitor",
+							"Monitor",
+							"monitor.save"
+						]
+					},
+					"inputDataExample": "{\"body\": {\"url\": \"https://google.com\", \"name\": \"Google\", \"type\": \"http\", \"interval\": 60000, \"description\": \"Google\", \"notifications\": []}, \"teamId\": \"team_789\", \"userId\": \"user_456\"}",
+					"outputDataExample": "{\"_id\": \"monitor_123\", \"name\": \"Google\", \"url\": \"https://google.com\", \"type\": \"http\", \"interval\": 60000, \"teamId\": \"team_789\", \"userId\": \"user_456\", \"isActive\": true, \"status\": null, \"createdAt\": \"2023-10-27T10:00:00Z\", \"updatedAt\": \"2023-10-27T10:00:00Z\"}"
+				},
+				{
+					"simStepId": "04aef699-f4f7-4ca0-a8de-983c247516f8",
+					"diagramNodeId": "1eff3a77-01e5-466e-8be8-9e71f7676a66",
+					"simStepLabel": "Add Monitor to Job Queue",
+					"simStepDescription": "After the monitor is successfully saved, the controller adds a new recurring job to the `PulseQueue`. This job is responsible for performing the periodic uptime checks.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/controllers/monitorController.js",
+						"startLine": "244",
+						"endLine": "244",
+						"relevantVariables": [
+							"this.jobQueue.addJob"
+						]
+					},
+					"inputDataExample": "{\"_id\": \"monitor_123\", \"name\": \"Google\", \"url\": \"https://google.com\", \"type\": \"http\", \"interval\": 60000, \"teamId\": \"team_789\", \"userId\": \"user_456\", \"isActive\": true, \"status\": null, \"createdAt\": \"2023-10-27T10:00:00Z\", \"updatedAt\": \"2023-10-27T10:00:00Z\"}",
+					"outputDataExample": "{\"_id\": \"monitor_123\", \"name\": \"Google\", \"url\": \"https://google.com\", \"type\": \"http\", \"interval\": 60000, \"teamId\": \"team_789\", \"userId\": \"user_456\", \"isActive\": true, \"status\": null, \"createdAt\": \"2023-10-27T10:00:00Z\", \"updatedAt\": \"2023-10-27T10:00:00Z\"}"
+				},
+				{
+					"simStepId": "5ec481f0-a3cc-42e1-895d-506c231ce0d2",
+					"diagramNodeId": "f9b8a704-863c-4394-9b1f-c85da9e3edab",
+					"simStepLabel": "Job Queue Schedules the Check",
+					"simStepDescription": "The `PulseQueue` service receives the new monitor, creates a 'monitor-job' for it, and sets it to repeat based on the specified interval. The `pulse` library then manages the scheduling of this job.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/service/PulseQueue/PulseQueue.js",
+						"startLine": "43",
+						"endLine": "55",
+						"relevantVariables": [
+							"addJob",
+							"this.pulse.create",
+							"job.repeatEvery",
+							"job.save"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"monitor_123\", \"monitor\": {\"_id\": \"monitor_123\", \"name\": \"Google\", \"url\": \"https://google.com\", \"type\": \"http\", \"interval\": 60000, \"isActive\": true}}",
+					"outputDataExample": "{\"name\": \"monitor-job\", \"data\": {\"monitor\": {\"_id\": \"monitor_123\", \"name\": \"Google\", \"url\": \"https://google.com\", \"type\": \"http\", \"interval\": 60000, \"isActive\": true}}, \"jobId\": \"monitor_123\", \"repeat_interval\": \"60 seconds\"}"
+				},
+				{
+					"simStepId": "79de5fa6-acbf-4b40-a1b2-a7f6208ad6a7",
+					"diagramNodeId": "a14921eb-9f3f-482f-86dd-ae3d9ef3ca91",
+					"simStepLabel": "Job Worker Executes Check",
+					"simStepDescription": "At the scheduled interval, the `PulseQueue` worker picks up the 'monitor-job'. The monitor data associated with the job is passed to the job handler function in `PulseQueueHelper`.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/service/PulseQueue/PulseQueueHelper.js",
+						"startLine": "11",
+						"endLine": "12",
+						"relevantVariables": [
+							"getMonitorJob",
+							"job"
+						]
+					},
+					"inputDataExample": "{\"attrs\": {\"name\": \"monitor-job\", \"data\": {\"monitor\": {\"_id\": \"monitor_123\", \"name\": \"Google\", \"url\": \"https://google.com\", \"type\": \"http\", \"interval\": 60000, \"isActive\": true}}}}",
+					"outputDataExample": "{\"attrs\": {\"name\": \"monitor-job\", \"data\": {\"monitor\": {\"_id\": \"monitor_123\", \"name\": \"Google\", \"url\": \"https://google.com\", \"type\": \"http\", \"interval\": 60000, \"isActive\": true}}}}"
+				},
+				{
+					"simStepId": "9712c723-e62e-4a45-b116-6602376bab7d",
+					"diagramNodeId": "d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3",
+					"simStepLabel": "Perform Health Check via Network Service",
+					"simStepDescription": "The job handler calls `networkService.getStatus`, which acts as a router based on the monitor type. For an 'http' monitor, it invokes `requestHttp` to make an HTTP GET request to the target URL.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/service/networkService.js",
+						"startLine": "495",
+						"endLine": "517",
+						"relevantVariables": [
+							"getStatus",
+							"requestHttp"
+						]
+					},
+					"inputDataExample": "{\"_id\": \"monitor_123\", \"name\": \"Google\", \"url\": \"https://google.com\", \"type\": \"http\", \"interval\": 60000, \"isActive\": true}",
+					"outputDataExample": "{\"monitorId\": \"monitor_123\", \"type\": \"http\", \"responseTime\": 150, \"status\": true, \"code\": 200, \"message\": \"OK\"}"
+				},
+				{
+					"simStepId": "57b06abd-4ed2-4f69-898a-5dbd5b49b39e",
+					"diagramNodeId": "0449f973-01b3-43a8-adcb-de81683bdea8",
+					"simStepLabel": "Pass Check Result to Status Service",
+					"simStepDescription": "The network response, containing the status, response time, and other metrics, is passed from the `PulseQueueHelper` to the `StatusService` for processing.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/service/PulseQueue/PulseQueueHelper.js",
+						"startLine": "34",
+						"endLine": "38",
+						"relevantVariables": [
+							"networkResponse",
+							"this.statusService.updateStatus"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"monitor_123\", \"type\": \"http\", \"responseTime\": 150, \"status\": true, \"code\": 200, \"message\": \"OK\"}",
+					"outputDataExample": "{\"monitorId\": \"monitor_123\", \"type\": \"http\", \"responseTime\": 150, \"status\": true, \"code\": 200, \"message\": \"OK\"}"
+				},
+				{
+					"simStepId": "ff501493-53b8-4532-9910-d14b53f1214e",
+					"diagramNodeId": "54faa23b-86a7-4392-abe3-cc727d7d8dca",
+					"simStepLabel": "Update Status and Record Check",
+					"simStepDescription": "The `statusService.updateStatus` function is called. It first calls `insertCheck` which builds a check document and adds it to a buffer for later saving. It then fetches the monitor, compares the new status with the existing one, and if there's a change, it updates the monitor's status field and saves the document.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/service/statusService.js",
+						"startLine": "104",
+						"endLine": "157",
+						"relevantVariables": [
+							"updateStatus",
+							"this.insertCheck",
+							"this.db.getMonitorById",
+							"monitor.save"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"monitor_123\", \"type\": \"http\", \"responseTime\": 150, \"status\": true, \"code\": 200, \"message\": \"OK\"}",
+					"outputDataExample": "{\"monitor\": {\"_id\": \"monitor_123\", \"status\": true}, \"statusChanged\": true, \"prevStatus\": null}"
+				},
+				{
+					"simStepId": "985817e9-e7c0-4e28-a94a-471ce5f8725c",
+					"diagramNodeId": "9fdfb8fe-f348-4c98-a4d7-9f88ce024de3",
+					"simStepLabel": "Persist Check Record to Database",
+					"simStepDescription": "The `insertCheck` function builds a `check` object and passes it to a buffer service. This service collects multiple checks and performs a bulk insert (`createChecks`) into the `checks` collection in MongoDB for efficiency.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/service/statusService.js",
+						"startLine": "262",
+						"endLine": "288",
+						"relevantVariables": [
+							"insertCheck",
+							"this.buildCheck",
+							"this.buffer.addToBuffer"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"monitor_123\", \"teamId\": \"team_789\", \"status\": true, \"statusCode\": 200, \"responseTime\": 150, \"message\": \"OK\"}",
+					"outputDataExample": "{\"monitorId\": \"monitor_123\", \"teamId\": \"team_789\", \"status\": true, \"statusCode\": 200, \"responseTime\": 150, \"message\": \"OK\"}"
+				},
+				{
+					"simStepId": "c32abb97-546c-4e37-aff9-6de778040b10",
+					"diagramNodeId": "bf55a018-5934-4087-ad6e-c97671c62fb3",
+					"simStepLabel": "User Views Monitor Details",
+					"simStepDescription": "The user navigates to the monitor's detail page. The `useFetchUptimeMonitorById` hook is triggered on the frontend to fetch all necessary data for display.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "client/src/Pages/Uptime/Details/index.jsx",
+						"startLine": "51",
+						"endLine": "56",
+						"relevantVariables": [
+							"useFetchUptimeMonitorById",
+							"monitorId",
+							"dateRange"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"monitor_123\", \"dateRange\": \"day\", \"trigger\": false}",
+					"outputDataExample": "{\"monitorData\": {...}, \"monitorStats\": {...}}"
+				},
+				{
+					"simStepId": "f049208c-ff89-4d74-9bbe-4637341d47d6",
+					"diagramNodeId": "29d9e788-bcdb-4e59-a209-a9e2370dbff1",
+					"simStepLabel": "Request Monitor Details from Server",
+					"simStepDescription": "The frontend `networkService` makes a GET request to `/api/v1/monitors/uptime/details/:monitorId` to fetch detailed information and historical check data for the specific monitor.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "client/src/Utils/NetworkService.js",
+						"startLine": "212",
+						"endLine": "218",
+						"relevantVariables": [
+							"getUptimeDetailsById",
+							"this.axiosInstance.get"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"monitor_123\", \"dateRange\": \"day\", \"normalize\": true}",
+					"outputDataExample": "{\"monitorId\": \"monitor_123\", \"dateRange\": \"day\", \"normalize\": true}"
+				},
+				{
+					"simStepId": "5519e622-500c-444c-8b75-315819fac904",
+					"diagramNodeId": "b6594100-f494-4742-b4c2-61408fc625c1",
+					"simStepLabel": "Server Gathers and Aggregates Monitor Data",
+					"simStepDescription": "The `getUptimeDetailsById` function in the `monitorModule` executes a complex MongoDB aggregation pipeline. This pipeline gathers monitor information, associated checks within the specified date range, and computes aggregate statistics such as uptime percentage and average response time.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/db/mongo/modules/monitorModule.js",
+						"startLine": "338",
+						"endLine": "371",
+						"relevantVariables": [
+							"getUptimeDetailsById",
+							"Check.aggregate",
+							"buildUptimeDetailsPipeline"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"monitor_123\", \"dateRange\": \"day\", \"normalize\": true}",
+					"outputDataExample": "{\"monitorData\": {\"uptimePercentage\": [{\"_id\": null, \"percentage\": 98.5}], \"groupedChecks\": [...]}, \"monitorStats\": {\"monitorId\": \"monitor_123\", \"avgResponseTime\": 155, ...}}"
+				},
+				{
+					"simStepId": "16829459-2793-498d-bcf7-3e5630adf89d",
+					"diagramNodeId": "24b5566e-4bd7-48a3-a3fe-ec8633b509ba",
+					"simStepLabel": "Send Aggregated Data to Client",
+					"simStepDescription": "The `monitorController` receives the aggregated data from the database module, wraps it in a standard success response object, and sends it back to the client.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/controllers/monitorController.js",
+						"startLine": "92",
+						"endLine": "95",
+						"relevantVariables": [
+							"res.success",
+							"data"
+						]
+					},
+					"inputDataExample": "{\"monitorData\": {\"uptimePercentage\": [{\"_id\": null, \"percentage\": 98.5}], \"groupedChecks\": [...]}, \"monitorStats\": {\"monitorId\": \"monitor_123\", \"avgResponseTime\": 155, ...}}",
+					"outputDataExample": "{\"success\": true, \"msg\": \"Got monitor by Id successfully\", \"data\": {\"monitorData\": {\"uptimePercentage\": [...], \"groupedChecks\": [...]}, \"monitorStats\": {...}}}"
+				},
+				{
+					"simStepId": "62672825-5239-48b8-a6f6-9c2ff156c473",
+					"diagramNodeId": "8067217d-6d02-4eb4-8e16-e1ad181e85cb",
+					"simStepLabel": "Frontend Renders Monitor Details Page",
+					"simStepDescription": "The React component receives the monitor data from the API. It then passes this data down to various child components like `UptimeStatusBoxes` for summary stats, `ChartBoxes` and `ResponseTimeChart` for data visualization, and `ResponseTable` to list individual checks.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "client/src/Pages/Uptime/Details/index.jsx",
+						"startLine": "141",
+						"endLine": "188",
+						"relevantVariables": [
+							"UptimeStatusBoxes",
+							"MonitorTimeFrameHeader",
+							"ChartBoxes",
+							"ResponseTimeChart",
+							"ResponseTable"
+						]
+					},
+					"inputDataExample": "{\"monitorData\": {\"monitor\": {...}, \"groupedChecks\": [...]}, \"monitorStats\": {...}, \"isLoading\": false}",
+					"outputDataExample": "{\"html\": \"<div>...rendered charts and tables...</div>\"}"
+				}
+			],
+			"description": "<ul><li>Users can add websites, servers, or services to monitor their availability and performance</li><li>This includes creating monitors for various types like HTTP/S, Ping, Port, and Docker containers</li><li>The system periodically checks the status, response time, and SSL certificate validity of these services</li><li>Results are visualized on a dashboard, showing at-a-glance if services are up or down</li><li>Monitoring intervals are configurable by the user</li></ul>",
+			"simulationNodesAndEdges": {
+				"7576b5e3-fc0a-4771-82ce-bbf4905f6dee": {
+					"simStepIds": [
+						"4b027a51-173b-4538-a9c0-632891559679"
+					]
+				},
+				"26f60271-d3c6-47f4-b86e-4c7b973b4b62": {
+					"simStepIds": [
+						"fe7ed684-683b-4379-83d0-88d83287a6c4"
+					]
+				},
+				"a9566822-6698-4934-8d4d-406450ebfbb1": {
+					"simStepIds": [
+						"f301d643-8738-4832-af50-64bdf9e5387b"
+					]
+				},
+				"f9b8a704-863c-4394-9b1f-c85da9e3edab": {
+					"simStepIds": [
+						"5ec481f0-a3cc-42e1-895d-506c231ce0d2"
+					]
+				},
+				"d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3": {
+					"simStepIds": [
+						"9712c723-e62e-4a45-b116-6602376bab7d"
+					]
+				},
+				"54faa23b-86a7-4392-abe3-cc727d7d8dca": {
+					"simStepIds": [
+						"ff501493-53b8-4532-9910-d14b53f1214e"
+					]
+				},
+				"bf55a018-5934-4087-ad6e-c97671c62fb3": {
+					"simStepIds": [
+						"c32abb97-546c-4e37-aff9-6de778040b10"
+					]
+				},
+				"b6594100-f494-4742-b4c2-61408fc625c1": {
+					"simStepIds": [
+						"5519e622-500c-444c-8b75-315819fac904"
+					]
+				},
+				"8067217d-6d02-4eb4-8e16-e1ad181e85cb": {
+					"simStepIds": [
+						"62672825-5239-48b8-a6f6-9c2ff156c473"
+					]
+				},
+				"2d3f34ef-4142-4996-ac1a-1310007de314": {
+					"simStepIds": [
+						"9630ce33-6e7f-4366-9920-292c796236ac"
+					]
+				},
+				"ebad0b72-35d1-493f-aa9a-5055030cb996": {
+					"simStepIds": [
+						"ff69cbda-5b1c-4c3f-819d-b9af5b68dea2"
+					]
+				},
+				"1eff3a77-01e5-466e-8be8-9e71f7676a66": {
+					"simStepIds": [
+						"04aef699-f4f7-4ca0-a8de-983c247516f8"
+					]
+				},
+				"a14921eb-9f3f-482f-86dd-ae3d9ef3ca91": {
+					"simStepIds": [
+						"79de5fa6-acbf-4b40-a1b2-a7f6208ad6a7"
+					]
+				},
+				"0449f973-01b3-43a8-adcb-de81683bdea8": {
+					"simStepIds": [
+						"57b06abd-4ed2-4f69-898a-5dbd5b49b39e"
+					]
+				},
+				"9fdfb8fe-f348-4c98-a4d7-9f88ce024de3": {
+					"simStepIds": [
+						"985817e9-e7c0-4e28-a94a-471ce5f8725c"
+					]
+				},
+				"29d9e788-bcdb-4e59-a209-a9e2370dbff1": {
+					"simStepIds": [
+						"f049208c-ff89-4d74-9bbe-4637341d47d6"
+					]
+				},
+				"24b5566e-4bd7-48a3-a3fe-ec8633b509ba": {
+					"simStepIds": [
+						"16829459-2793-498d-bcf7-3e5630adf89d"
+					]
+				}
+			},
+			"isAIGenerated": true,
+			"keywords": "Monitor, Check, JobQueue"
+		},
+		"Notifications and Alerting": {
+			"name": "Notifications and Alerting",
+			"simSteps": [],
+			"description": "<ul><li>Users can configure various notification channels to receive real-time alerts when incidents occur</li><li>The system supports multiple channels including Email, Slack, Discord, Telegram, PagerDuty, and generic Webhooks</li><li>Notifications are sent when a monitor's status changes (e</li><li>g</li><li>, goes down or comes back up)</li><li>Alerts can also be triggered for hardware monitors when predefined thresholds are breached</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "notificationService, Notification, handleNotifications"
+		},
+		"Incident Management and Historical Data Visualization": {
+			"name": "Incident Management and Historical Data Visualization",
+			"simSteps": [],
+			"description": "<ul><li>The application provides detailed views of a monitor's history, including uptime percentages, response time charts, and a log of past incidents</li><li>Users can access historical performance data over various time frames (e</li><li>g</li><li>, 24 hours, 7 days, 30 days)</li><li>This data is visualized using interactive charts and graphs to analyze trends and diagnose recurring problems</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "MonitorStats, AreaChart, getMonitorStatsById"
+		},
+		"Public Status Pages": {
+			"name": "Public Status Pages",
+			"simSteps": [],
+			"description": "<ul><li>Users can create public-facing status pages that display the current status of selected monitors</li><li>These pages can be customized with a logo, company name, color scheme, and a unique URL</li><li>Options are available to show or hide uptime percentages and performance charts for public viewers</li><li>This feature is crucial for businesses needing to communicate service availability to their customers</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "StatusPage, getStatusPageByUrl, isPublished"
+		},
+		"Infrastructure Monitoring": {
+			"name": "Infrastructure Monitoring",
+			"simSteps": [],
+			"description": "<ul><li>Users can monitor the hardware health of their servers, which requires a companion 'Capture' agent</li><li>The system tracks key metrics such as CPU usage, memory consumption, disk space, and system temperature</li><li>Users can set custom alert thresholds for each hardware metric to be proactively notified of potential issues</li><li>Detailed historical data for these metrics is available through charts and gauges</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "HardwareCheck, infrastructure, thresholds"
+		},
+		"Page Speed and Web Performance Monitoring": {
+			"name": "Page Speed and Web Performance Monitoring",
+			"simSteps": [],
+			"description": "<ul><li>Users can monitor the performance of their webpages, analyzing metrics beyond simple uptime</li><li>The system runs scheduled performance audits on webpages, likely leveraging Google's Lighthouse</li><li>It tracks key metrics like First Contentful Paint (FCP), Largest Contentful Paint (LCP), and Speed Index</li><li>This helps in optimizing user experience and identifying frontend performance bottlenecks</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "PageSpeed, PageSpeedCheck, lighthouseResult"
+		},
+		"Scheduled Maintenance Windows": {
+			"name": "Scheduled Maintenance Windows",
+			"simSteps": [],
+			"description": "<ul><li>Users can define scheduled maintenance windows for specific monitors to avoid false alarms during planned service interruptions</li><li>During a maintenance window, monitoring checks and alerting are temporarily suppressed for the selected services</li><li>This feature ensures uptime statistics remain accurate and prevents alert fatigue for operations teams</li><li>Maintenance can be set as one-time or recurring events</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "MaintenanceWindow, createMaintenanceWindows, isInMaintenanceWindow"
+		},
+		"User and Team Management": {
+			"name": "User and Team Management",
+			"simSteps": [],
+			"description": "<ul><li>The application supports a multi-user environment where users are organized into teams</li><li>Administrators can invite new users to a team via email</li><li>Monitors, status pages, and other resources are scoped to a specific team, providing data segregation and collaborative access for organizations</li><li>Role-based access control (admin, superadmin) is used to manage permissions</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "Team, inviteController, verifyTeamAccess"
+		},
+		"Bulk Monitor Management via CSV": {
+			"name": "Bulk Monitor Management via CSV",
+			"simSteps": [],
+			"description": "<ul><li>For users with many services, the application allows for efficient management through CSV files</li><li>Users can import a list of monitors by uploading a CSV, enabling quick setup of numerous monitoring jobs</li><li>A sample CSV template is provided to ensure correct formatting</li><li>Additionally, existing monitor configurations can be exported to a CSV file for backup or migration</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "createBulkMonitors, exportMonitorsToCSV, papaparse"
+		},
+		"Advanced Uptime Checks with JSON Query": {
+			"name": "Advanced Uptime Checks with JSON Query",
+			"simSteps": [
+				{
+					"simStepId": "7b8edb1c-a757-444a-8c3a-032dac2b2e3b",
+					"diagramNodeId": "c11e0d58-9147-4474-acab-3c2e77cfeb4a",
+					"simStepLabel": "User Configures Advanced Uptime Check",
+					"simStepDescription": "On the 'Create Uptime Monitor' page, the user enables 'Advanced Matching' and provides a JMESPath query, an expected value, and a matching method to perform deep health checks on a JSON API response.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "client/src/Pages/Uptime/Create/index.jsx",
+						"startLine": "411",
+						"endLine": "463",
+						"relevantVariables": [
+							"Select",
+							"TextInput",
+							"onChange",
+							"monitor.matchMethod",
+							"monitor.expectedValue",
+							"monitor.jsonPath"
+						]
+					},
+					"inputDataExample": "{\"useAdvancedMatching\": true, \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\"}",
+					"outputDataExample": "{\"url\": \"https://api.example.com/health\", \"name\": \"Example API Health\", \"type\": \"http\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\", \"interval\": 1}"
+				},
+				{
+					"simStepId": "fe951f27-d44e-434c-9139-8f0e50423276",
+					"diagramNodeId": "b9c5f64b-8e6d-45cd-8dae-f8c32199574d",
+					"simStepLabel": "Submitting Monitor Configuration",
+					"simStepDescription": "When the user clicks 'Create Monitor', the form data, including advanced matching settings, is collected from the component's state and passed to the submission handler.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "client/src/Pages/Uptime/Create/index.jsx",
+						"startLine": "117",
+						"endLine": "129",
+						"relevantVariables": [
+							"form",
+							"monitorValidation"
+						]
+					},
+					"inputDataExample": "{\"url\": \"https://api.example.com/health\", \"name\": \"Example API Health\", \"type\": \"http\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\", \"interval\": 1, \"notifications\": [], \"ignoreTlsErrors\": false}",
+					"outputDataExample": "{\"url\": \"https://api.example.com/health\", \"name\": \"Example API Health\", \"type\": \"http\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\", \"interval\": 1, \"notifications\": [], \"ignoreTlsErrors\": false}"
+				},
+				{
+					"simStepId": "3097aacf-2823-42e6-94a1-b86c416b3a1e",
+					"diagramNodeId": "df5009e1-7e72-4464-a453-d558eb2dcf0c",
+					"simStepLabel": "Prepare and Send API Request",
+					"simStepDescription": "The `useUpdateMonitor` hook (similar to `useCreateMonitor`) prepares the payload by collecting all relevant fields, including `matchMethod`, `expectedValue`, and `jsonPath`, to be sent to the backend API.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "client/src/Hooks/monitorHooks.js",
+						"startLine": "327",
+						"endLine": "344",
+						"relevantVariables": [
+							"updateMonitor",
+							"updatedFields",
+							"monitor.matchMethod",
+							"monitor.expectedValue",
+							"monitor.jsonPath",
+							"networkService.updateMonitor"
+						]
+					},
+					"inputDataExample": "{\"monitor\": {\"_id\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"name\": \"Example API Health\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\"}}",
+					"outputDataExample": "{\"monitorId\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"updatedFields\": {\"name\": \"Example API Health\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\"}}"
+				},
+				{
+					"simStepId": "e8687f11-b430-48a0-9cb6-9df02380c523",
+					"diagramNodeId": "d88f6de7-e2ce-49d0-ada4-5ac530f1143b",
+					"simStepLabel": "Transmit Monitor Configuration to Server",
+					"simStepDescription": "The frontend makes an API call (e.g., PUT or POST) to the server's monitor endpoint, sending the complete monitor configuration as a JSON payload in the request body.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "client/src/Utils/NetworkService.js",
+						"startLine": "1",
+						"endLine": "1",
+						"relevantVariables": [
+							"NetworkService"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"updatedFields\": {\"name\": \"Example API Health\", \"url\": \"https://api.example.com/health\", \"type\": \"http\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\", \"interval\": 60000}}",
+					"outputDataExample": "{\"monitorId\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"updatedFields\": {\"name\": \"Example API Health\", \"url\": \"https://api.example.com/health\", \"type\": \"http\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\", \"interval\": 60000}}"
+				},
+				{
+					"simStepId": "d482e822-fbda-4098-85ce-832ea3149bae",
+					"diagramNodeId": "45fcab12-2d79-4353-9cc7-6ff6f4d44485",
+					"simStepLabel": "Validate Monitor Configuration on Server",
+					"simStepDescription": "The backend receives the request and uses a Joi validation schema to ensure the incoming data is valid. The schema explicitly allows `jsonPath` and `expectedValue` to be strings, including empty ones.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/validation/joi.js",
+						"startLine": "204",
+						"endLine": "206",
+						"relevantVariables": [
+							"createMonitorsBodyValidation",
+							"jsonPath",
+							"expectedValue",
+							"matchMethod"
+						]
+					},
+					"inputDataExample": "{\"name\": \"Example API Health\", \"url\": \"https://api.example.com/health\", \"type\": \"http\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\"}",
+					"outputDataExample": "{\"name\": \"Example API Health\", \"url\": \"https://api.example.com/health\", \"type\": \"http\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\"}"
+				},
+				{
+					"simStepId": "823f7f08-0a18-45fc-9109-2fa4943e88ba",
+					"diagramNodeId": "484b09ab-8a9d-4c35-9e29-7b79b5ded453",
+					"simStepLabel": "Persist Monitor Configuration",
+					"simStepDescription": "After successful validation, the monitor controller passes the configuration object to the data access layer to be saved or updated in the database.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/controllers/monitorController.js",
+						"startLine": "1",
+						"endLine": "1",
+						"relevantVariables": [
+							"createOrUpdateMonitor"
+						]
+					},
+					"inputDataExample": "{\"name\": \"Example API Health\", \"url\": \"https://api.example.com/health\", \"type\": \"http\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\", \"interval\": 60000, \"teamId\": \"t_123\", \"userId\": \"u_456\"}",
+					"outputDataExample": "{\"name\": \"Example API Health\", \"url\": \"https://api.example.com/health\", \"type\": \"http\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\", \"interval\": 60000, \"teamId\": \"t_123\", \"userId\": \"u_456\"}"
+				},
+				{
+					"simStepId": "aba059e7-1ce0-427a-8536-bab6d463380f",
+					"diagramNodeId": "f2cedce5-e1af-4267-b0f1-ab04f057e05b",
+					"simStepLabel": "Store Configuration in Database",
+					"simStepDescription": "The monitor's configuration, including `jsonPath`, `expectedValue`, and `matchMethod`, is stored as a document in the 'monitors' collection in MongoDB, based on the defined Mongoose schema.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/db/models/Monitor.js",
+						"startLine": "42",
+						"endLine": "52",
+						"relevantVariables": [
+							"jsonPath",
+							"expectedValue",
+							"matchMethod"
+						]
+					},
+					"inputDataExample": "{\"name\": \"Example API Health\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\"}",
+					"outputDataExample": "{\"_id\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"name\": \"Example API Health\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\", \"jsonPath\": \"status.health\", \"createdAt\": \"2024-01-15T10:00:00.000Z\"}"
+				},
+				{
+					"simStepId": "655c7a59-83d2-482b-8a4a-000ee967c379",
+					"diagramNodeId": "1feaebcf-7089-4f2c-b386-3d55f4c9c097",
+					"simStepLabel": "Uptime Check Job Enqueued",
+					"simStepDescription": "A job containing the monitor's details is scheduled in the pulse queue to be executed periodically according to its configured interval.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/service/PulseQueue/PulseQueue.js",
+						"startLine": "1",
+						"endLine": "1",
+						"relevantVariables": [
+							"PulseQueue"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"interval\": 60000}",
+					"outputDataExample": "{\"monitorId\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"interval\": 60000}"
+				},
+				{
+					"simStepId": "2f5732df-2ac4-44b2-b43e-f4c211be835d",
+					"diagramNodeId": "27cb1f9a-8341-4efc-b2bc-fe578184ebcf",
+					"simStepLabel": "Initiate HTTP Check",
+					"simStepDescription": "The queue processor picks up the job and calls the `requestHttp` method in the NetworkService, passing the full monitor configuration object, which includes the advanced matching parameters.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/service/networkService.js",
+						"startLine": "140",
+						"endLine": "147",
+						"relevantVariables": [
+							"requestHttp",
+							"monitor",
+							"jsonPath",
+							"matchMethod",
+							"expectedValue"
+						]
+					},
+					"inputDataExample": "{\"_id\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"url\": \"https://api.example.com/health\", \"jsonPath\": \"status.health\", \"matchMethod\": \"equal\", \"expectedValue\": \"healthy\"}",
+					"outputDataExample": "{\"url\": \"https://api.example.com/health\", \"config\": {\"headers\": {\"Authorization\": \"Bearer <secret>\"}}}"
+				},
+				{
+					"simStepId": "fcd3a3ac-d3ab-4d49-9104-a9add33e2039",
+					"diagramNodeId": "ab2c0817-0c41-4ab8-8b51-c42850ea4ef1",
+					"simStepLabel": "Fetch Data from Target API",
+					"simStepDescription": "The NetworkService performs an HTTP GET request to the monitor's configured URL to retrieve the JSON response.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/service/networkService.js",
+						"startLine": "152",
+						"endLine": "152",
+						"relevantVariables": [
+							"this.http.get"
+						]
+					},
+					"inputDataExample": "{\"url\": \"https://api.example.com/health\"}",
+					"outputDataExample": "{\"status\": 200, \"headers\": {\"content-type\": \"application/json\"}, \"data\": {\"status\": {\"health\": \"healthy\", \"database\": \"connected\"}}}"
+				},
+				{
+					"simStepId": "199b75d8-53ee-45dd-a634-0fc9f8c68a04",
+					"diagramNodeId": "06ca9228-5d0b-4293-aa64-ab8866597f51",
+					"simStepLabel": "Extract Value with JSONPath",
+					"simStepDescription": "The service verifies the response is JSON. It then uses the `jmespath.search` function to apply the `jsonPath` expression to the JSON response body, extracting the specific value to be validated.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/service/networkService.js",
+						"startLine": "205",
+						"endLine": "213",
+						"relevantVariables": [
+							"jmespath.search",
+							"result",
+							"jsonPath"
+						]
+					},
+					"inputDataExample": "{\"jsonPath\": \"status.health\", \"responseBody\": {\"status\": {\"health\": \"healthy\", \"database\": \"connected\"}}}",
+					"outputDataExample": "\"healthy\""
+				},
+				{
+					"simStepId": "e8e7a414-c259-47f8-b25a-f2e8d29b6eea",
+					"diagramNodeId": "a266e0a6-125b-45c9-986b-780f930d7d71",
+					"simStepLabel": "Pass Extracted Value to Matcher",
+					"simStepDescription": "The value extracted by the JMESPath query is passed to the next stage of logic for comparison against the expected value.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/service/networkService.js",
+						"startLine": "222",
+						"endLine": "222",
+						"relevantVariables": [
+							"result"
+						]
+					},
+					"inputDataExample": "\"healthy\"",
+					"outputDataExample": "\"healthy\""
+				},
+				{
+					"simStepId": "9de8cb15-b189-4ee1-b0f1-eef690dcecab",
+					"diagramNodeId": "91fa91a3-bc36-42d7-aa08-9301355e7014",
+					"simStepLabel": "Compare Extracted vs. Expected Value",
+					"simStepDescription": "The code compares the extracted value with the `expectedValue` from the monitor's configuration, using the specified `matchMethod` ('include', 'regex', or 'equal'). The result of this comparison determines the monitor's status.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/service/networkService.js",
+						"startLine": "222",
+						"endLine": "231",
+						"relevantVariables": [
+							"match",
+							"result",
+							"expectedValue",
+							"matchMethod",
+							"httpResponse.status"
+						]
+					},
+					"inputDataExample": "{\"result\": \"healthy\", \"expectedValue\": \"healthy\", \"matchMethod\": \"equal\"}",
+					"outputDataExample": "{\"status\": true, \"message\": \"Expected value matched\"}"
+				},
+				{
+					"simStepId": "3e4c1686-1326-4270-8a51-c52e994e863c",
+					"diagramNodeId": "09282ff5-eddf-4f13-b95f-420158c3b5b5",
+					"simStepLabel": "Return Final Check Result",
+					"simStepDescription": "The `requestHttp` function concludes its execution by returning a comprehensive result object, including the final status (true for up, false for down) and a descriptive message.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "server/service/networkService.js",
+						"startLine": "232",
+						"endLine": "233",
+						"relevantVariables": [
+							"httpResponse"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"teamId\": \"t_123\", \"type\": \"http\", \"status\": true, \"message\": \"Expected value matched\", \"code\": 200}",
+					"outputDataExample": "{\"monitorId\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"teamId\": \"t_123\", \"type\": \"http\", \"status\": true, \"message\": \"Expected value matched\", \"code\": 200}"
+				},
+				{
+					"simStepId": "c5447819-817d-472e-ac18-c27fcf9f1049",
+					"diagramNodeId": "bbfd54ad-d5de-4525-9871-79fc6c30edc3",
+					"simStepLabel": "Store Uptime Check Result",
+					"simStepDescription": "The job processor receives the final result from the NetworkService and saves it as a new document in the 'checks' collection in the database, creating a historical record of the monitor's health.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "server/db/models/Check.js",
+						"startLine": "1",
+						"endLine": "1",
+						"relevantVariables": [
+							"Check"
+						]
+					},
+					"inputDataExample": "{\"monitorId\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"status\": true, \"responseTime\": 123, \"statusCode\": 200, \"message\": \"Expected value matched\"}",
+					"outputDataExample": "{\"_id\": \"c_abc123\", \"monitorId\": \"65a4e3f3a1b2c3d4e5f6a7b8\", \"status\": true, \"responseTime\": 123, \"statusCode\": 200, \"message\": \"Expected value matched\", \"createdAt\": \"2024-01-15T10:01:00.000Z\"}"
+				}
+			],
+			"description": "<ul><li>Users can configure HTTP monitors to perform deep health checks on JSON API endpoints, going beyond a simple HTTP 200 OK status</li><li>This is achieved by specifying a JMESPath query to target a specific key in the JSON response</li><li>An expected value and a match method (e</li><li>g</li><li>, 'equal', 'include', 'regex') can be set to validate the API's data integrity, ensuring the service is not just online but also functioning correctly</li></ul>",
+			"simulationNodesAndEdges": {
+				"c11e0d58-9147-4474-acab-3c2e77cfeb4a": {
+					"simStepIds": [
+						"7b8edb1c-a757-444a-8c3a-032dac2b2e3b"
+					]
+				},
+				"df5009e1-7e72-4464-a453-d558eb2dcf0c": {
+					"simStepIds": [
+						"3097aacf-2823-42e6-94a1-b86c416b3a1e"
+					]
+				},
+				"45fcab12-2d79-4353-9cc7-6ff6f4d44485": {
+					"simStepIds": [
+						"d482e822-fbda-4098-85ce-832ea3149bae"
+					]
+				},
+				"f2cedce5-e1af-4267-b0f1-ab04f057e05b": {
+					"simStepIds": [
+						"aba059e7-1ce0-427a-8536-bab6d463380f"
+					]
+				},
+				"27cb1f9a-8341-4efc-b2bc-fe578184ebcf": {
+					"simStepIds": [
+						"2f5732df-2ac4-44b2-b43e-f4c211be835d"
+					]
+				},
+				"06ca9228-5d0b-4293-aa64-ab8866597f51": {
+					"simStepIds": [
+						"199b75d8-53ee-45dd-a634-0fc9f8c68a04"
+					]
+				},
+				"91fa91a3-bc36-42d7-aa08-9301355e7014": {
+					"simStepIds": [
+						"9de8cb15-b189-4ee1-b0f1-eef690dcecab"
+					]
+				},
+				"bbfd54ad-d5de-4525-9871-79fc6c30edc3": {
+					"simStepIds": [
+						"c5447819-817d-472e-ac18-c27fcf9f1049"
+					]
+				},
+				"b9c5f64b-8e6d-45cd-8dae-f8c32199574d": {
+					"simStepIds": [
+						"fe951f27-d44e-434c-9139-8f0e50423276"
+					]
+				},
+				"d88f6de7-e2ce-49d0-ada4-5ac530f1143b": {
+					"simStepIds": [
+						"e8687f11-b430-48a0-9cb6-9df02380c523"
+					]
+				},
+				"484b09ab-8a9d-4c35-9e29-7b79b5ded453": {
+					"simStepIds": [
+						"823f7f08-0a18-45fc-9109-2fa4943e88ba"
+					]
+				},
+				"1feaebcf-7089-4f2c-b386-3d55f4c9c097": {
+					"simStepIds": [
+						"655c7a59-83d2-482b-8a4a-000ee967c379"
+					]
+				},
+				"ab2c0817-0c41-4ab8-8b51-c42850ea4ef1": {
+					"simStepIds": [
+						"fcd3a3ac-d3ab-4d49-9104-a9add33e2039"
+					]
+				},
+				"a266e0a6-125b-45c9-986b-780f930d7d71": {
+					"simStepIds": [
+						"e8e7a414-c259-47f8-b25a-f2e8d29b6eea"
+					]
+				},
+				"09282ff5-eddf-4f13-b95f-420158c3b5b5": {
+					"simStepIds": [
+						"3e4c1686-1326-4270-8a51-c52e994e863c"
+					]
+				}
+			},
+			"isAIGenerated": true,
+			"keywords": "jsonPath, expectedValue, jmespath"
+		}
+	},
+	"cellToPath": {
+		"838aebb4-4819-41c2-9c6b-793694ee9fdf": "client",
+		"dfdbbcfd-34de-4608-8bb5-0f4148657031": "server",
+		"23721e99-dd82-4881-a2c1-99be4a530dc3": "client/src",
+		"9817fcb9-dce8-4192-a71e-edf32875035d": "server/controllers",
+		"99398059-7c94-4156-a51b-247e58ef67d9": "server/db",
+		"2c027844-3cd9-4384-90f7-505f94a07e41": "server/service",
+		"b7df1536-ca9c-4124-8c62-f99d26fdc2b0": "client/src/Pages",
+		"e78e43dd-2258-400c-ba9b-ea4aa9e957cd": "client/src/Hooks",
+		"72518127-cf06-4aba-a3bb-0ca900e5bb21": "client/src/Utils",
+		"e0322b9d-7ff6-4d66-af27-b32ad340065b": "server/controllers/monitorController.js",
+		"022e6c49-8724-463a-8306-a380f7545ca1": "server/db/mongo",
+		"2d77a256-2db9-4808-9604-38368096d85f": "server/service/PulseQueue",
+		"09a5c1ce-697a-481c-8133-ae583d2719a2": "server/service/networkService.js",
+		"db3967cc-8a6b-44eb-8241-9fa6c6f7918d": "server/service/statusService.js",
+		"93bfdb86-a66f-4152-96b8-1527c2ece3e8": "client/src/Pages/Uptime",
+		"5a7f828d-a740-4f00-9913-a7eb09557397": "client/src/Hooks/monitorHooks.js",
+		"de3620c3-8da9-4551-b9cb-d99a5b4c0694": "client/src/Utils/NetworkService.js",
+		"4d078e59-a5e7-40f3-820c-b6687b8309b6": "server/db/mongo/modules",
+		"fd9a7c7b-227f-4d7d-90a0-15dd302abb37": "server/service/PulseQueue/PulseQueue.js",
+		"589871f1-0543-4e77-8e98-ba4a8871cfde": "server/service/PulseQueue/PulseQueueHelper.js",
+		"bd93ad01-7723-4634-a502-fa2b072c61b0": "client/src/Pages/Uptime/Create",
+		"c596a2ea-9acb-4a14-90e8-c9ee700449c3": "client/src/Pages/Uptime/Details",
+		"0ee99b12-acf1-430e-8a29-8012fde80083": "server/db/mongo/modules/monitorModule.js",
+		"c28a96e4-7411-4cfd-9116-2eccc5a45e39": "client/src/Pages/Uptime/Create/index.jsx",
+		"df14458e-5006-4101-b4b2-946ec116102b": "client/src/Pages/Uptime/Details/index.jsx",
+		"7576b5e3-fc0a-4771-82ce-bbf4905f6dee": "client/src/Pages/Uptime/Create/index.jsx-simstep-4b027a51-173b-4538-a9c0-632891559679",
+		"26f60271-d3c6-47f4-b86e-4c7b973b4b62": "server/controllers/monitorController.js-simstep-fe7ed684-683b-4379-83d0-88d83287a6c4",
+		"a9566822-6698-4934-8d4d-406450ebfbb1": "server/db/mongo/modules/monitorModule.js-simstep-f301d643-8738-4832-af50-64bdf9e5387b",
+		"f9b8a704-863c-4394-9b1f-c85da9e3edab": "server/service/PulseQueue/PulseQueue.js-simstep-5ec481f0-a3cc-42e1-895d-506c231ce0d2",
+		"d7ee1bf3-4fa7-4133-a58e-a20ff6ada7f3": "server/service/networkService.js-simstep-9712c723-e62e-4a45-b116-6602376bab7d",
+		"54faa23b-86a7-4392-abe3-cc727d7d8dca": "server/service/statusService.js-simstep-ff501493-53b8-4532-9910-d14b53f1214e",
+		"bf55a018-5934-4087-ad6e-c97671c62fb3": "client/src/Pages/Uptime/Details/index.jsx-simstep-c32abb97-546c-4e37-aff9-6de778040b10",
+		"b6594100-f494-4742-b4c2-61408fc625c1": "server/db/mongo/modules/monitorModule.js-simstep-5519e622-500c-444c-8b75-315819fac904",
+		"8067217d-6d02-4eb4-8e16-e1ad181e85cb": "client/src/Pages/Uptime/Details/index.jsx-simstep-62672825-5239-48b8-a6f6-9c2ff156c473",
+		"2d3f34ef-4142-4996-ac1a-1310007de314": "generated-edge-simstep-9630ce33-6e7f-4366-9920-292c796236ac-2d3f34ef-4142-4996-ac1a-1310007de314",
+		"ebad0b72-35d1-493f-aa9a-5055030cb996": "generated-edge-simstep-ff69cbda-5b1c-4c3f-819d-b9af5b68dea2-ebad0b72-35d1-493f-aa9a-5055030cb996",
+		"1eff3a77-01e5-466e-8be8-9e71f7676a66": "generated-edge-simstep-04aef699-f4f7-4ca0-a8de-983c247516f8-1eff3a77-01e5-466e-8be8-9e71f7676a66",
+		"a14921eb-9f3f-482f-86dd-ae3d9ef3ca91": "generated-edge-simstep-79de5fa6-acbf-4b40-a1b2-a7f6208ad6a7-a14921eb-9f3f-482f-86dd-ae3d9ef3ca91",
+		"0449f973-01b3-43a8-adcb-de81683bdea8": "generated-edge-simstep-57b06abd-4ed2-4f69-898a-5dbd5b49b39e-0449f973-01b3-43a8-adcb-de81683bdea8",
+		"9fdfb8fe-f348-4c98-a4d7-9f88ce024de3": "generated-edge-simstep-985817e9-e7c0-4e28-a94a-471ce5f8725c-9fdfb8fe-f348-4c98-a4d7-9f88ce024de3",
+		"29d9e788-bcdb-4e59-a209-a9e2370dbff1": "generated-edge-simstep-f049208c-ff89-4d74-9bbe-4637341d47d6-29d9e788-bcdb-4e59-a209-a9e2370dbff1",
+		"24b5566e-4bd7-48a3-a3fe-ec8633b509ba": "generated-edge-simstep-16829459-2793-498d-bcf7-3e5630adf89d-24b5566e-4bd7-48a3-a3fe-ec8633b509ba",
+		"641b6571-3e47-4580-b79d-25729504c8c5": "server/validation",
+		"d1e25d19-dfe0-4451-8201-6ee6661eb6c1": "server/validation/joi.js",
+		"d14939cb-68cc-40c6-a93f-f6a73b4a6ff8": "server/db/models",
+		"703ab886-9e78-45bb-99de-361ebd755685": "server/db/models/Monitor.js",
+		"0d2194b6-976b-4f55-b0d5-b42381bb9542": "server/db/models/Check.js",
+		"c11e0d58-9147-4474-acab-3c2e77cfeb4a": "client/src/Pages/Uptime/Create/index.jsx-simstep-7b8edb1c-a757-444a-8c3a-032dac2b2e3b",
+		"df5009e1-7e72-4464-a453-d558eb2dcf0c": "client/src/Hooks/monitorHooks.js-simstep-3097aacf-2823-42e6-94a1-b86c416b3a1e",
+		"45fcab12-2d79-4353-9cc7-6ff6f4d44485": "server/validation/joi.js-simstep-d482e822-fbda-4098-85ce-832ea3149bae",
+		"f2cedce5-e1af-4267-b0f1-ab04f057e05b": "server/db/models/Monitor.js-simstep-aba059e7-1ce0-427a-8536-bab6d463380f",
+		"27cb1f9a-8341-4efc-b2bc-fe578184ebcf": "server/service/networkService.js-simstep-2f5732df-2ac4-44b2-b43e-f4c211be835d",
+		"06ca9228-5d0b-4293-aa64-ab8866597f51": "server/service/networkService.js-simstep-199b75d8-53ee-45dd-a634-0fc9f8c68a04",
+		"91fa91a3-bc36-42d7-aa08-9301355e7014": "server/service/networkService.js-simstep-9de8cb15-b189-4ee1-b0f1-eef690dcecab",
+		"bbfd54ad-d5de-4525-9871-79fc6c30edc3": "server/db/models/Check.js-simstep-c5447819-817d-472e-ac18-c27fcf9f1049",
+		"b9c5f64b-8e6d-45cd-8dae-f8c32199574d": "generated-edge-simstep-fe951f27-d44e-434c-9139-8f0e50423276-b9c5f64b-8e6d-45cd-8dae-f8c32199574d",
+		"d88f6de7-e2ce-49d0-ada4-5ac530f1143b": "generated-edge-simstep-e8687f11-b430-48a0-9cb6-9df02380c523-d88f6de7-e2ce-49d0-ada4-5ac530f1143b",
+		"484b09ab-8a9d-4c35-9e29-7b79b5ded453": "generated-edge-simstep-823f7f08-0a18-45fc-9109-2fa4943e88ba-484b09ab-8a9d-4c35-9e29-7b79b5ded453",
+		"1feaebcf-7089-4f2c-b386-3d55f4c9c097": "generated-edge-simstep-655c7a59-83d2-482b-8a4a-000ee967c379-1feaebcf-7089-4f2c-b386-3d55f4c9c097",
+		"ab2c0817-0c41-4ab8-8b51-c42850ea4ef1": "generated-edge-simstep-fcd3a3ac-d3ab-4d49-9104-a9add33e2039-ab2c0817-0c41-4ab8-8b51-c42850ea4ef1",
+		"a266e0a6-125b-45c9-986b-780f930d7d71": "generated-edge-simstep-e8e7a414-c259-47f8-b25a-f2e8d29b6eea-a266e0a6-125b-45c9-986b-780f930d7d71",
+		"09282ff5-eddf-4f13-b95f-420158c3b5b5": "generated-edge-simstep-3e4c1686-1326-4270-8a51-c52e994e863c-09282ff5-eddf-4f13-b95f-420158c3b5b5"
+	}
+}
