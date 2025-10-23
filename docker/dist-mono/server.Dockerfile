@@ -1,4 +1,4 @@
-FROM node:20-alpine AS frontend-build
+FROM node:20-slim AS frontend-build
 
 WORKDIR /app/client
 
@@ -8,18 +8,26 @@ RUN npm install
 COPY client ./
 RUN npm run build
 
-FROM node:20-alpine AS app
+FROM node:20-slim AS app
+
+# Install ping
+RUN apt-get update \
+    && apt-get install -y iputils-ping \
+    && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app/server
 
 COPY server ./
 
-COPY --from=frontend-build /app/client/dist ./public
 
 RUN npm install
+
+RUN npm run build
+
+COPY --from=frontend-build /app/client/dist ./public
 
 RUN chmod +x ./scripts/inject-vars.sh
 
 EXPOSE 52345
 
-CMD ./scripts/inject-vars.sh && node ./index.js
+CMD ./scripts/inject-vars.sh && node ./dist/index.js

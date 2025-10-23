@@ -87,8 +87,10 @@ const newColors = {
 	offBlack: "#131315",
 	gray0: "#FDFDFD",
 	gray10: "#F4F4FF",
+	gray50: "#F9F9F9",
 	gray100: "#F3F3F3",
 	gray200: "#EFEFEF",
+	gray250: "#DADADA",
 	gray500: "#A2A3A3",
 	gray900: "#1c1c1c",
 	blueGray50: "#E8F0FE",
@@ -98,7 +100,6 @@ const newColors = {
 	blueGray900: "#515151",
 	blueBlueWave: "#1570EF",
 	lightBlueWave: "#CDE2FF",
-	/* I changed green 100 and green 700. Need to change red and warning as well, and refactor the object following the structure */
 	green100: "#67cd78",
 	green200: "#4B9B77",
 	green400: "#079455",
@@ -173,7 +174,7 @@ const newSemanticColors = {
 			dark: newColors.blueGray800,
 		},
 		lowContrast: {
-			light: newColors.gray200,
+			light: newColors.gray250,
 			dark: newColors.blueGray600,
 		},
 	},
@@ -205,6 +206,18 @@ const newSemanticColors = {
 		contrastText: {
 			light: newColors.blueGray800,
 			dark: newColors.gray100,
+		},
+		background: {
+			light: newColors.gray50,
+			dark: newColors.offBlack,
+		},
+		border: {
+			light: newColors.gray500,
+			dark: newColors.blueGray600,
+		},
+		cardShadow: {
+			light: "0 0 0 1px rgba(0, 0, 0, 0.04), 0 12px 24px rgba(0, 0, 0, 0.08)",
+			dark: "0 2px 10px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(255, 255, 255, 0.04)",
 		},
 	},
 	success: {

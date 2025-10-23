@@ -1,5 +1,6 @@
 import { typographyLevels } from "./constants";
 const fontFamilyPrimary = '"Inter" , sans-serif';
+import { darken } from "@mui/material/styles";
 // const fontFamilySecondary = '"Avenir", sans-serif';
 
 /* TODO take the color out from here */
@@ -55,6 +56,20 @@ const baseTheme = (palette) => ({
 			styleOverrides: {
 				root: ({ theme }) => ({
 					variants: [
+						{
+							props: (props) => props.variant === "contained" && props.color === "accent",
+							backgroundColor: theme.palette.accent.main,
+							style: {
+								color: theme.palette.primary.contrastTextSecondaryDarkBg,
+								letterSpacing: "0.5px",
+								textShadow: "0 0 1px rgba(0, 0, 0, 0.15)",
+								"&:hover": {
+									backgroundColor: darken(theme.palette.accent.darker, 0.05),
+									boxShadow: `0 2px 6px rgba(0, 0, 0, 0.1)`,
+									transition: "all 0.2s ease-in-out",
+								},
+							},
+						},
 						{
 							props: (props) => props.color === "accent",
 							style: {
@@ -217,16 +232,16 @@ const baseTheme = (palette) => ({
 		},
 		MuiList: {
 			styleOverrides: {
-				root: {
+				root: ({ theme }) => ({
 					padding: 0,
-				},
+				}),
 			},
 		},
 		MuiListItemButton: {
 			styleOverrides: {
-				root: {
-					transition: "none",
-				},
+				root: ({ theme }) => ({
+					transition: "background-color .3s",
+				}),
 			},
 		},
 		MuiListItemText: {
@@ -263,6 +278,7 @@ const baseTheme = (palette) => ({
 				}),
 			},
 		},
+
 		MuiTableHead: {
 			styleOverrides: {
 				root: ({ theme }) => ({
@@ -337,7 +353,7 @@ const baseTheme = (palette) => ({
 					},
 
 					"& .MuiInputBase-input.MuiOutlinedInput-input": {
-						padding: "0 var(--env-var-spacing-1-minus) !important",
+						padding: `0 ${theme.spacing(5)}`,
 					},
 
 					"& .MuiOutlinedInput-root": {
@@ -392,6 +408,7 @@ const baseTheme = (palette) => ({
 					"& .MuiOutlinedInput-root": {
 						paddingTop: 0,
 						paddingBottom: 0,
+						paddingRight: theme.spacing(5),
 					},
 					"& fieldset": {
 						borderColor: theme.palette.primary.lowContrast,
@@ -547,12 +564,21 @@ const baseTheme = (palette) => ({
 					"& .MuiSelect-icon": {
 						color: theme.palette.primary.contrastTextSecondary, // Dropdown + color
 					},
+					"& .MuiSelect-select": {
+						display: "flex",
+						alignItems: "center",
+					},
 					"&:hover": {
 						backgroundColor: theme.palette.primary.main, // Background on hover
 					},
 					"&:hover .MuiOutlinedInput-notchedOutline": {
 						borderColor: theme.palette.primary.lowContrast,
 					},
+					padding: `0 ${theme.spacing(5)}`,
+					minHeight: "34px",
+					display: "flex",
+					alignItems: "center",
+					lineHeight: 1,
 				}),
 			},
 		},
@@ -561,7 +587,7 @@ const baseTheme = (palette) => ({
 				root: ({ theme }) => ({
 					ml: "auto",
 					"& .MuiButtonBase-root, & .MuiButtonBase-root:hover": {
-						borderColor: theme.palette.primary.contrastBorder,
+						borderColor: theme.palette.primary.lowContrast,
 						width: "auto",
 						whiteSpace: "nowrap",
 					},
@@ -701,6 +727,14 @@ const baseTheme = (palette) => ({
 					},
 				},
 			],
+		},
+
+		MuiTooltip: {
+			styleOverrides: {
+				tooltip: () => ({
+					fontSize: typographyLevels.m,
+				}),
+			},
 		},
 	},
 	shape: {
